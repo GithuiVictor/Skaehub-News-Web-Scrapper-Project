@@ -8,7 +8,7 @@ from unittest.mock import patch
 class TestApp(unittest.TestCase):
     def setUp(self):
         self.path = './app.py'
-        self.app = NewsScraperApp()
+        self.app = NewsScraperApp('https://news.search.yahoo.com/', 'iphone 12')
     
 
     """Check if the app file exists"""
@@ -28,9 +28,10 @@ class TestApp(unittest.TestCase):
 
     """Test if the url input is an number instead of a string"""
     def test_inputNumber(self):
-        user_input = 2
+        self.user_input = 2
 
-        with patch('builtins.input', side_effect=user_input):
+        with patch('builtins.input', side_effect=self.user_input):
+
             articles = NewsScraperApp.get_general_news()
         
         self.assertFalse(articles)
@@ -42,7 +43,7 @@ class TestApp(unittest.TestCase):
 
         with patch('builtins.input', side_effect=user_input):
 
-            articles = NewsScraperApp.get_specific_news()
+            articles = NewsScraperApp.get_specific_news(self)
 
         self.assertFalse(articles)
 
