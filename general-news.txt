@@ -1,0 +1,262 @@
+[
+    {
+        "headline": "America Is Undergoing Seismic Changes. Its Politics? Hardly.",
+        "article_link": "",
+        "description": null
+    },
+    {
+        "headline": "A Fourth of July Symbol of Unity That May No Longer Unite",
+        "article_link": "",
+        "description": null
+    },
+    {
+        "headline": "The Battle for 1776",
+        "article_link": "",
+        "description": null
+    },
+    {
+        "headline": "Inside the Tumultuous Years Before the Florida Condo Collapse",
+        "article_link": "",
+        "description": null
+    },
+    {
+        "headline": "With Demolition Looming, Search Is Halted at Collapsed Tower",
+        "article_link": "",
+        "description": null
+    },
+    {
+        "headline": "Engineers who have examined the wreckage have been struck by a possible flaw in the building\u2019s construction.",
+        "article_link": "",
+        "description": null
+    },
+    {
+        "headline": "U.S. Celebrates Independence Day Just Shy of Vaccine Goal",
+        "article_link": "",
+        "description": null
+    },
+    {
+        "headline": "Pandemic Wave of Automation May Be Bad News for Workers",
+        "article_link": "",
+        "description": null
+    },
+    {
+        "headline": "Tracking the Coronavirus \u203a",
+        "article_link": "",
+        "description": null
+    },
+    {
+        "headline": "U.S. vaccinations \u203a",
+        "article_link": "",
+        "description": null
+    },
+    {
+        "headline": "Global hot spots \u203a",
+        "article_link": "",
+        "description": null
+    },
+    {
+        "headline": "Global vaccinations \u203a\n\t",
+        "article_link": "",
+        "description": null
+    },
+    {
+        "headline": "Other trackers:\n\tChoose your own places to track",
+        "article_link": "",
+        "description": null
+    },
+    {
+        "headline": "Other trackers:",
+        "article_link": "",
+        "description": null
+    },
+    {
+        "headline": "A Disparaging Video Prompts Explosive Fallout Within ESPN",
+        "article_link": "",
+        "description": null
+    },
+    {
+        "headline": "A Diamond Rush in South Africa, Born of Desperation and Distrust",
+        "article_link": "",
+        "description": null
+    },
+    {
+        "headline": "The Weekender: From Emails to Exoneration",
+        "article_link": "",
+        "description": null
+    },
+    {
+        "headline": "Did you follow the news this week? Take our quiz.",
+        "article_link": "",
+        "description": null
+    },
+    {
+        "headline": "The Editorial Board",
+        "article_link": "",
+        "description": null
+    },
+    {
+        "headline": "We\u2019ve Come So Far With Vaccines, America. Now Keep Going.",
+        "article_link": "",
+        "description": null
+    },
+    {
+        "headline": "David Axelrod",
+        "article_link": "",
+        "description": null
+    },
+    {
+        "headline": "When It Comes to People Like My Daughter, One Size Does Not Fit All",
+        "article_link": "",
+        "description": null
+    },
+    {
+        "headline": "Astra Taylor",
+        "article_link": "",
+        "description": null
+    },
+    {
+        "headline": "Make Americans\u2019 Crushing Debt Disappear",
+        "article_link": "",
+        "description": null
+    },
+    {
+        "headline": "Errol Morris",
+        "article_link": "",
+        "description": null
+    },
+    {
+        "headline": "Donald Rumsfeld\u2019s Fog of Memos",
+        "article_link": "",
+        "description": null
+    },
+    {
+        "headline": "Daniel Immerwahr",
+        "article_link": "",
+        "description": null
+    },
+    {
+        "headline": "The Strange, Sad Death of America\u2019s Political Imagination",
+        "article_link": "",
+        "description": null
+    },
+    {
+        "headline": "Maureen Dowd",
+        "article_link": "",
+        "description": null
+    },
+    {
+        "headline": "Friends in High Places",
+        "article_link": "",
+        "description": null
+    },
+    {
+        "headline": "Ross Douthat",
+        "article_link": "",
+        "description": null
+    },
+    {
+        "headline": "The Excesses of Antiracist Education",
+        "article_link": "",
+        "description": null
+    },
+    {
+        "headline": "Paul Krugman",
+        "article_link": "",
+        "description": null
+    },
+    {
+        "headline": "Alexander Hamilton and Post-Covid America",
+        "article_link": "",
+        "description": null
+    },
+    {
+        "headline": "Brad Stone",
+        "article_link": "",
+        "description": null
+    },
+    {
+        "headline": "The Jeff Bezos Paradox",
+        "article_link": "",
+        "description": null
+    },
+    {
+        "headline": "Dana Liebelson",
+        "article_link": "",
+        "description": null
+    },
+    {
+        "headline": "People Who Are \u2018Cowboy Tough\u2019 Can Still Look Out for One Another",
+        "article_link": "",
+        "description": null
+    },
+    {
+        "headline": "Julia Coronado",
+        "article_link": "",
+        "description": null
+    },
+    {
+        "headline": "7 Charts That Explain the Economic Recovery So Far",
+        "article_link": "",
+        "description": null
+    },
+    {
+        "headline": "Ian Leahy",
+        "article_link": "",
+        "description": null
+    },
+    {
+        "headline": "Since When Have Trees Existed Only for Rich Americans?",
+        "article_link": "",
+        "description": null
+    },
+    {
+        "headline": "Daniela J. Lamas",
+        "article_link": "",
+        "description": null
+    },
+    {
+        "headline": "What Should Doctors Do When We Experience a Miracle?",
+        "article_link": "",
+        "description": null
+    },
+    {
+        "headline": "Michelle Cottle",
+        "article_link": "",
+        "description": null
+    },
+    {
+        "headline": "Can One Florida Man Wrest Control of the G.O.P. From Another?",
+        "article_link": "",
+        "description": null
+    },
+    {
+        "headline": "Is There a Right Way to Act Blind?",
+        "article_link": "",
+        "description": null
+    },
+    {
+        "headline": "With Baseball Stamps, It Ain\u2019t Over Until the Rights Issues Clear",
+        "article_link": "",
+        "description": null
+    },
+    {
+        "headline": "Overlooked No More: Eve Adams, Writer Who Gave Lesbians a Voice",
+        "article_link": "",
+        "description": null
+    },
+    {
+        "headline": "Advertisement",
+        "article_link": "",
+        "description": null
+    },
+    {
+        "headline": "Site Index",
+        "article_link": "",
+        "description": null
+    },
+    {
+        "headline": "Site Information Navigation",
+        "article_link": "",
+        "description": null
+    }
+]
