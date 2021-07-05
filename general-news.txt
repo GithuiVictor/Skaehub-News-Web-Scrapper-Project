@@ -1,0 +1,662 @@
+[
+    {
+        "headline": "Big Story ",
+        "article_link": "https://www.ndtv.com/https://www.ndtv.com/india-news/in-haryana-congress-mlas-supporting-bhupinder-hooda-seek-change-of-guard-2479856?pfrom=home-ndtv_bigstory",
+        "description": null
+    },
+    {
+        "headline": "After Punjab, Turmoil In Haryana Congress; Courtesy Bhupinder Hooda Camp",
+        "article_link": "https://www.ndtv.com/https://www.ndtv.com/india-news/in-haryana-congress-mlas-supporting-bhupinder-hooda-seek-change-of-guard-2479856?pfrom=home-ndtv_bigstory",
+        "description": null
+    },
+    {
+        "headline": " Top Stories  ",
+        "article_link": "https://www.ndtv.com/https://www.ndtv.com/top-stories?pfrom=home-ndtv_topstories",
+        "description": null
+    },
+    {
+        "headline": "\n\nAmarinder Singh To Meet Sonia Gandhi Tomorrow Amid Punjab Infighting",
+        "article_link": "https://www.ndtv.com/https://www.ndtv.com/india-news/amarinder-singh-to-meet-sonia-gandhi-tomorrow-amid-punjab-congress-infighting-2479825?pfrom=home-ndtv_topstories",
+        "description": null
+    },
+    {
+        "headline": "\n\nBJP-Sena Talks Hit Dead End? The Devendra Fadnavis Factor",
+        "article_link": "https://www.ndtv.com/https://www.ndtv.com/india-news/bjp-sena-talks-hold-up-pm-cabinet-changes-the-devendra-fadnavis-factor-2479452?pfrom=home-ndtv_topstories",
+        "description": null
+    },
+    {
+        "headline": "\n\nBrazil Contradicts Bharat Biotech Claim On Emergency Approval For Covaxin",
+        "article_link": "https://www.ndtv.com/https://www.ndtv.com/india-news/covaxin-brazil-deal-brazil-contradicts-bharat-biotech-claim-on-emergency-approval-for-covaxin-2479694?pfrom=home-ndtv_topstories",
+        "description": null
+    },
+    {
+        "headline": "\n\n\"Healing Process Done\": Iyer Says Will Be Back For Remainder of IPL 2021",
+        "article_link": "https://www.ndtv.com/https://sports.ndtv.com/cricket/shreyas-iyer-says-healing-process-done-will-be-back-for-remainder-of-ipl-2021-2479819?pfrom=home-ndtv_topstories",
+        "description": null
+    },
+    {
+        "headline": "\n\n12 BJP MLAs In Maharashtra Suspended For Abusing Assembly Speaker",
+        "article_link": "https://www.ndtv.com/https://www.ndtv.com/india-news/12-bjp-mlas-in-maharashtra-disqualified-for-abusing-speaker-devendra-fadnavis-says-allegations-false-2479634?pfrom=home-ndtv_topstories",
+        "description": null
+    },
+    {
+        "headline": "\n\n\"Twitter In Breach Of Law Of The Land\": Centre Tells Delhi High Court",
+        "article_link": "https://www.ndtv.com/https://www.ndtv.com/india-news/twitter-in-breach-of-law-of-the-land-centre-tells-delhi-high-court-2479790?pfrom=home-ndtv_topstories",
+        "description": null
+    },
+    {
+        "headline": "\n\nTokyo Olympics: Mary Kom, Manpreet Singh To Be India's Flag Bearers",
+        "article_link": "https://www.ndtv.com/https://sports.ndtv.com/olympics-2020/mary-kom-manpreet-singh-to-be-indias-flag-bearers-at-tokyo-olympics-opening-ceremony-2479752?pfrom=home-ndtv_topstories",
+        "description": null
+    },
+    {
+        "headline": "\n\nTata Motors To Increase Car Prices For The Third Time This Year\n",
+        "article_link": "https://www.ndtv.com/https://www.carandbike.com/news/tata-motors-to-increase-prices-across-its-passenger-vehicle-line-up-soon-2479775?pfrom=home-ndtv_topstories",
+        "description": null
+    },
+    {
+        "headline": "\n\nPranab Mukherjee's Son Abhijit Mukherjee, Ex-Congress MP, Joins Trinamool",
+        "article_link": "https://www.ndtv.com/https://www.ndtv.com/india-news/pranab-mukherjees-son-abhijit-mukherjee-to-join-trinamool-congress-today-sources-2479627?pfrom=home-ndtv_topstories",
+        "description": null
+    },
+    {
+        "headline": "\n\nSponsored: Support Those Who Put Food On Your Table Everyday",
+        "article_link": "https://www.ndtv.com/https://special.ndtv.com/rang-de-india-67/news-detail/support-those-who-put-food-on-your-table-everyday-2463528/7?pfrom=home-ndtv_topstories",
+        "description": null
+    },
+    {
+        "headline": "",
+        "article_link": "",
+        "description": null
+    },
+    {
+        "headline": "",
+        "article_link": "",
+        "description": null
+    },
+    {
+        "headline": "\"India A Democracy\": Supreme Court Turns Away Plea On \"Congress Toolkit\"",
+        "article_link": "https://www.ndtv.com/https://www.ndtv.com/india-news/india-a-democracy-supreme-court-turns-away-plea-on-congress-toolkit-2479749?pfrom=home-ndtv_topscroll",
+        "description": null
+    },
+    {
+        "headline": "\"Hiked 8 Times Since May\": Mamata Banerjee's Letter To PM On Fuel Prices",
+        "article_link": "https://www.ndtv.com/https://www.ndtv.com/india-news/mamata-banerjee-letter-to-pm-modi-on-fuel-prices-hiked-8-times-since-may-2479852?pfrom=home-ndtv_topscroll",
+        "description": null
+    },
+    {
+        "headline": "\"Devastating...\": EU, UN Human Rights Reps On Stan Swamy's Death",
+        "article_link": "https://www.ndtv.com/https://www.ndtv.com/india-news/elgar-parishad-case-stan-swamys-death-devastating-eu-un-human-rights-reps-on-stan-swamys-death-2479792?pfrom=home-ndtv_topscroll",
+        "description": null
+    },
+    {
+        "headline": "Date For Filing Tax Forms On Foreign Payments Extended",
+        "article_link": "https://www.ndtv.com/https://www.ndtv.com/business/government-extends-date-for-filing-tax-forms-on-foreign-payments-2479783?pfrom=home-ndtv_topscroll",
+        "description": null
+    },
+    {
+        "headline": "",
+        "article_link": "",
+        "description": null
+    },
+    {
+        "headline": "Nandan Nilekani To Join Government Panel To Curb Digital Monopolies",
+        "article_link": "https://www.ndtv.com/https://www.ndtv.com/india-news/nandan-nilekani-to-join-9-member-government-panel-to-curb-digital-monopolies-2479859?pfrom=home-ndtv_topscroll",
+        "description": null
+    },
+    {
+        "headline": "Mom, Who Dissed Rs 35,000 Gucci Belt, Flaunts It Like A Diva",
+        "article_link": "https://www.ndtv.com/https://www.ndtv.com/offbeat/mom-who-went-viral-for-comparing-gucci-belt-to-dps-school-belt-shows-you-how-to-style-it-2479638?pfrom=home-ndtv_lateststories",
+        "description": null
+    },
+    {
+        "headline": "Karan Johar Can't Wait To Announce His Next Film - A Special Love Story",
+        "article_link": "https://www.ndtv.com/https://www.ndtv.com/entertainment/karan-johar-cant-wait-to-announce-his-next-film-as-a-director-a-love-story-embedded-in-the-roots-of-family-2479875?pfrom=home-ndtv_lateststories",
+        "description": null
+    },
+    {
+        "headline": "Shagufta Ali Reveals She's Ill And Broke, Cine Body Promises Help",
+        "article_link": "https://www.ndtv.com/https://www.ndtv.com/entertainment/shagufta-ali-reveals-shes-ill-and-broke-cine-body-promises-help-2479849?pfrom=home-ndtv_lateststories",
+        "description": null
+    },
+    {
+        "headline": "Mandira Bedi Posts Memory With Raj Kaushal And A Broken Heart",
+        "article_link": "https://www.ndtv.com/https://www.ndtv.com/entertainment/mandira-bedi-posts-memory-with-raj-kaushal-and-a-broken-heart-2479554?pfrom=home-ndtv_lateststories",
+        "description": null
+    },
+    {
+        "headline": "\"Guess...\" Hanuma Vihari's Latest Twitter Post Gets Hilarious Responses",
+        "article_link": "https://www.ndtv.com/https://www.ndtv.com/offbeat/hanuma-vihari-shares-picture-of-himself-speaking-over-phone-asks-people-to-guess-conversation-2479655?pfrom=home-ndtv_lateststories",
+        "description": null
+    },
+    {
+        "headline": "\"Journey Of Life Continues\": Smriti Mandhana Shares Pics From Team Bus",
+        "article_link": "https://www.ndtv.com/https://sports.ndtv.com/cricket/england-women-vs-india-women-smriti-mandhana-shares-pics-from-team-bus-2479740?pfrom=home-ndtv_lateststories",
+        "description": null
+    },
+    {
+        "headline": "Team India Gears Up For Sri Lanka ODIs With Intra-Squad Game. See Pics",
+        "article_link": "https://www.ndtv.com/https://sports.ndtv.com/sri-lanka-vs-india-2021/sri-lanka-vs-india-team-india-gears-up-for-sri-lanka-odis-with-intra-squad-game-in-colombo-see-pics-2479742?pfrom=home-ndtv_lateststories",
+        "description": null
+    },
+    {
+        "headline": "\n        Opinion \n    ",
+        "article_link": "https://www.ndtv.com/https://www.ndtv.com/opinion?pfrom=home-ndtv_opinion",
+        "description": null
+    },
+    {
+        "headline": " ICYMI",
+        "article_link": "https://www.ndtv.com/https://www.ndtv.com/trends?pfrom=home-ndtv_icymi",
+        "description": null
+    },
+    {
+        "headline": "Celebs",
+        "article_link": "https://www.ndtv.com/https://www.ndtv.com/entertainment",
+        "description": null
+    },
+    {
+        "headline": "Navya, Shanaya Are All Hearts For Khushi Kapoors Fiery Pics",
+        "article_link": "https://www.ndtv.com/https://www.ndtv.com/entertainment/khushi-kapoor-paints-instagram-red-with-fiery-pics-navya-naveli-nanda-shanaya-kapoor-are-all-hearts-2479727?pfrom=home-ndtv_icymi",
+        "description": null
+    },
+    {
+        "headline": "Bollywood",
+        "article_link": "",
+        "description": null
+    },
+    {
+        "headline": "'Bhoot Police': Arjun Kapoor's Chiraunji Ain't Afraid Of No Ghost",
+        "article_link": "https://www.ndtv.com/https://www.ndtv.com/entertainment/bhoot-police-arjun-kapoors-chiraunji-aint-afraid-of-no-ghost-2479801?pfrom=home-ndtv_icymi",
+        "description": null
+    },
+    {
+        "headline": "Style",
+        "article_link": "https://www.ndtv.com/https://swirlster.ndtv.com/",
+        "description": null
+    },
+    {
+        "headline": "Rubina Dilaik In An Aqua Blue String Bikini Is Making Us \"Long For A Vacation\" Too",
+        "article_link": "https://www.ndtv.com/https://swirlster.ndtv.com/style/rubina-dilaik-in-an-aqua-blue-string-bikini-is-making-us-long-for-a-vacation-too-2479644?pfrom=home-ndtv_icymi",
+        "description": null
+    },
+    {
+        "headline": "Entertainment",
+        "article_link": "",
+        "description": null
+    },
+    {
+        "headline": "The One Where The Girl-'F.R.I.E.N.D.S' Reunite For The Fourth Of July",
+        "article_link": "https://www.ndtv.com/https://www.ndtv.com/entertainment/the-one-where-the-girl-f-r-i-e-n-d-s-reunite-for-the-fourth-of-july-2479626?pfrom=home-ndtv_icymi",
+        "description": null
+    },
+    {
+        "headline": "Food",
+        "article_link": "https://www.ndtv.com/https://food.ndtv.com/",
+        "description": null
+    },
+    {
+        "headline": "Kareena Kapoor Shares Pic Of Son Taimur's Pasta, And You'll Be Surprised",
+        "article_link": "https://www.ndtv.com/https://food.ndtv.com/news/kareena-kapoor-khan-shares-pic-of-son-taimurs-pasta-and-youll-be-surprised-2479485?pfrom=home-ndtv_icymi",
+        "description": null
+    },
+    {
+        "headline": "\nCoronavirus Pandemic\n ",
+        "article_link": "https://www.ndtv.com/https://www.ndtv.com/coronavirus?pfrom=home-ndtv_coronavirus_outbreak_coverage",
+        "description": null
+    },
+    {
+        "headline": "Over 1 Crore Vaccine Doses Administered In India Amid Fear Of New Strains",
+        "article_link": "https://www.ndtv.com/https://www.ndtv.com/india-news/over-1-crore-vaccinated-in-india-amid-fear-of-new-covid-19-strains-2374440?pfrom=home-ndtv_coronavirus_outbreak_coverage",
+        "description": null
+    },
+    {
+        "headline": " India Infections At 3-Week High, Mumbai Hires Marshals To Enforce Masks ",
+        "article_link": "https://www.ndtv.com/https://www.ndtv.com/india-news/india-infections-at-3-week-high-mumbai-hires-marshals-to-enforce-masks-2374040?pfrom=home-ndtv_coronavirus_outbreak_coverage",
+        "description": null
+    },
+    {
+        "headline": " Covid-19: Several Maharashtra Ministers, Leaders Test Positive Amid Surge ",
+        "article_link": "https://www.ndtv.com/https://www.ndtv.com/india-news/covid-19-resurgence-in-maharashtra-sees-a-spate-of-netas-infected-2373903?pfrom=home-ndtv_coronavirus_outbreak_coverage",
+        "description": null
+    },
+    {
+        "headline": " \"Not One Death Reported Due To COVID-19 Vaccination\": Harsh Vardhan ",
+        "article_link": "https://www.ndtv.com/https://www.ndtv.com/india-news/no-death-reported-due-to-covid-19-vaccination-harsh-vardhan-2371223?pfrom=home-ndtv_coronavirus_outbreak_coverage",
+        "description": null
+    },
+    {
+        "headline": "Trending",
+        "article_link": "https://www.ndtv.com/https://www.ndtv.com/trends",
+        "description": null
+    },
+    {
+        "headline": "Tech ",
+        "article_link": "https://www.ndtv.com/https://gadgets.ndtv.com?pfrom=home-tech",
+        "description": null
+    },
+    {
+        "headline": "\n              Nokia G20 Launched in India: See Price, Features\n            ",
+        "article_link": "https://www.ndtv.com/https://gadgets.ndtv.com/mobiles/news/nokia-g20-price-in-india-rs-12999-launch-specifications-amazon-july-7-pre-orders-15-sale-2479747?pfrom=home-ndtv_tech",
+        "description": null
+    },
+    {
+        "headline": "Realme GT Master Edition Price, Specs, Design Leaked",
+        "article_link": "https://www.ndtv.com/https://gadgets.ndtv.com/mobiles/news/realme-gt-master-edition-price-eur-399-specifications-design-onleaks-2479572?pfrom=home-ndtv_tech",
+        "description": null
+    },
+    {
+        "headline": "Mi 11 Ultra to Go on a Limited Quantity Sale on July 7",
+        "article_link": "https://www.ndtv.com/https://gadgets.ndtv.com/mobiles/news/mi-11-ultra-sale-date-july-7-12-noon-limited-quantity-price-in-india-rs-69990-xiaomi-website-register-offers-2479682#headingp1?pfrom=home-ndtv_tech",
+        "description": null
+    },
+    {
+        "headline": "Samsung \u00e2\u0080\u0098Galaxy Unpacked' Event Tipped for August 11",
+        "article_link": "https://www.ndtv.com/https://gadgets.ndtv.com/mobiles/news/samsung-galaxy-unpacked-event-date-august-11-z-flip-fold-3-watch-active-4-buds-2-report-2479514?pfrom=home-ndtv_tech",
+        "description": null
+    },
+    {
+        "headline": "REVIEWS",
+        "article_link": "https://www.ndtv.com/https://gadgets.ndtv.com/reviews",
+        "description": null
+    },
+    {
+        "headline": "Samsung Galaxy M32: Only for Binge Watchers?",
+        "article_link": "https://www.ndtv.com/https://gadgets.ndtv.com/mobiles/reviews/samsung-m32-review-specification-camera-price-in-india-galaxy-2477856?pfrom=home-ndtv_tech",
+        "description": null
+    },
+    {
+        "headline": "Amazon Echo Show 10 (3rd Gen): Worth It? ",
+        "article_link": "https://www.ndtv.com/https://gadgets.ndtv.com/smart-home/reviews/amazon-echo-show-10-3rd-gen-review-price-in-india-alexa-display-motion-2475888?pfrom=home-ndtv_tech",
+        "description": null
+    },
+    {
+        "headline": "\u00e0\u00a4\u00b9\u00e0\u00a4\u00bf\u00e0\u00a4\u0082\u00e0\u00a4\u00a6\u00e0\u00a5\u0080",
+        "article_link": "https://www.ndtv.com/https://hindi.gadgets360.com/",
+        "description": null
+    },
+    {
+        "headline": "\n                        Jio \u00e0\u00a4\u00af\u00e0\u00a5\u0082\u00e0\u00a4\u009c\u00e0\u00a4\u00b0\u00e0\u00a5\u008d\u00e0\u00a4\u00b8 \u00e0\u00a4\u0095\u00e0\u00a5\u008b \u00e0\u00a4\u0085\u00e0\u00a4\u00ac \u00e0\u00a4\u0089\u00e0\u00a4\u00a7\u00e0\u00a4\u00be\u00e0\u00a4\u00b0 \u00e0\u00a4\u00aa\u00e0\u00a4\u00b0 \u00e0\u00a4\u00ae\u00e0\u00a4\u00bf\u00e0\u00a4\u00b2\u00e0\u00a5\u0087\u00e0\u00a4\u0097\u00e0\u00a4\u00be 5GB \u00e0\u00a4\u00a1\u00e0\u00a5\u0087\u00e0\u00a4\u009f\u00e0\u00a4\u00be, \u00e0\u00a4\u0090\u00e0\u00a4\u00b8\u00e0\u00a5\u0087 \u00e0\u00a4\u00b2\u00e0\u00a5\u0087\u00e0\u00a4\u0082 \u00e0\u00a4\u00ab\u00e0\u00a4\u00be\u00e0\u00a4\u00af\u00e0\u00a4\u00a6\u00e0\u00a4\u00be\n                    ",
+        "article_link": "https://www.ndtv.com/https://hindi.gadgets360.com/telecom/jio-emergency-data-loan-service-launched-1gb-each-pack-high-speed-internet-access-pay-later-how-to-get-it-details-news-2479299?pfrom=home-ndtv_tech",
+        "description": null
+    },
+    {
+        "headline": "\n                        108MP Hasselblad \u00e0\u00a4\u0095\u00e0\u00a5\u008d\u00e0\u00a4\u00b5\u00e0\u00a4\u00be\u00e0\u00a4\u00a1 \u00e0\u00a4\u0095\u00e0\u00a5\u0088\u00e0\u00a4\u00ae\u00e0\u00a4\u00b0\u00e0\u00a4\u00be \u00e0\u00a4\u00b8\u00e0\u00a5\u0087\u00e0\u00a4\u009f\u00e0\u00a4\u0085\u00e0\u00a4\u00aa \u00e0\u00a4\u0095\u00e0\u00a5\u0087 \u00e0\u00a4\u00b8\u00e0\u00a4\u00be\u00e0\u00a4\u00a5 \u00e0\u00a4\u00b2\u00e0\u00a5\u0089\u00e0\u00a4\u00a8\u00e0\u00a5\u008d\u00e0\u00a4\u009a \u00e0\u00a4\u00b9\u00e0\u00a5\u008b\u00e0\u00a4\u0097\u00e0\u00a4\u00be OnePlus 9T \u00e0\u00a4\u00ab\u00e0\u00a5\u008b\u00e0\u00a4\u00a8!\n                    ",
+        "article_link": "https://www.ndtv.com/https://hindi.gadgets360.com/mobiles/oneplus-9t-with-108-megapixel-hasselblad-quad-rear-camera-tipped-to-launch-in-q3-108-9-news-2479520?pfrom=home-ndtv_tech",
+        "description": null
+    },
+    {
+        "headline": "\n                   Amazon Echo Show 10 (3rd Gen): Worth It? \n                ",
+        "article_link": "https://www.ndtv.com/https://gadgets.ndtv.com/smart-home/reviews/amazon-echo-show-10-3rd-gen-review-price-in-india-alexa-display-motion-2475888?pfrom=home-ndtv_tech",
+        "description": null
+    },
+    {
+        "headline": "Realme Buds Q2: Best Under Rs. 3,000? ",
+        "article_link": "https://www.ndtv.com/https://gadgets.ndtv.com/audio/reviews/realme-buds-q2-review-price-in-india-true-wireless-earphones-2475088?pfrom=home-ndtv_tech",
+        "description": null
+    },
+    {
+        "headline": "Poco M3 Pro 5G: A Decent Starter 5G Smartphone",
+        "article_link": "https://www.ndtv.com/https://gadgets.ndtv.com/mobiles/reviews/poco-m3-pro-5g-price-in-india-review-flipkart-2469050?pfrom=home-ndtv_tech",
+        "description": null
+    },
+    {
+        "headline": "OnePlus Nord CE 5G: The Core Experience",
+        "article_link": "https://www.ndtv.com/https://gadgets.ndtv.com/mobiles/reviews/oneplus-nord-ce-5g-review-price-india-specifications-cameras-charging-2461780?pfrom=home-ndtv_tech",
+        "description": null
+    },
+    {
+        "headline": "Vivo X60 Pro+: Almost a Complete Package",
+        "article_link": "https://www.ndtv.com/https://gadgets.ndtv.com/mobiles/reviews/vivo-x60-pro-plus-price-in-india-gimbal-stabilisation-vs-oneplus-9-pro-mi-11-ultra-2458364?pfrom=home-ndtv_tech",
+        "description": null
+    },
+    {
+        "headline": "Realme C21: Android on a Budget",
+        "article_link": "https://www.ndtv.com/https://gadgets.ndtv.com/mobiles/reviews/realme-c21-review-price-in-india-specs-performance-camera-battery-life-2456525?pfrom=home-ndtv_tech",
+        "description": null
+    },
+    {
+        "headline": "Realme Smart TV 4K 43: Worth It? ",
+        "article_link": "https://www.ndtv.com/https://gadgets.ndtv.com/tv/reviews/realme-smart-android-tv-4k-hdr-43-inch-review-price-in-india-2452947?pfrom=home-ndtv_tech",
+        "description": null
+    },
+    {
+        "headline": "OnePlus Watch: Anticlimactic",
+        "article_link": "https://www.ndtv.com/https://gadgets.ndtv.com/wearables/reviews/oneplus-watch-review-price-in-india-specifications-spo2-fitness-workout-tracking-2450502?pfrom=home-ndtv_tech",
+        "description": null
+    },
+    {
+        "headline": "Mi 11X: Who Says You Have to be an All-Rounder?",
+        "article_link": "https://www.ndtv.com/https://gadgets.ndtv.com/mobiles/reviews/mi-11x-review-price-india-snapdragon-870-performance-gaming-camera-battery-xiaomi-2424723?pfrom=home-ndtv_tech",
+        "description": null
+    },
+    {
+        "headline": " 116 KM \u00e0\u00a4\u00b0\u00e0\u00a5\u0087\u00e0\u00a4\u0082\u00e0\u00a4\u009c \u00e0\u00a4\u00b5\u00e0\u00a4\u00be\u00e0\u00a4\u00b2\u00e0\u00a5\u0087 Ather 450X \u00e0\u00a4\u0087\u00e0\u00a4\u00b2\u00e0\u00a5\u0087\u00e0\u00a4\u0095\u00e0\u00a5\u008d\u00e0\u00a4\u009f\u00e0\u00a5\u008d\u00e0\u00a4\u00b0\u00e0\u00a4\u00bf\u00e0\u00a4\u0095 \u00e0\u00a4\u00b8\u00e0\u00a5\u008d\u00e0\u00a4\u0095\u00e0\u00a5\u0082\u00e0\u00a4\u009f\u00e0\u00a4\u00b0 \u00e0\u00a4\u0095\u00e0\u00a4\u00be \u00e0\u00a4\u00b6\u00e0\u00a5\u008b\u00e0\u00a4\u00b0\u00e0\u00a5\u0082\u00e0\u00a4\u00ae \u00e0\u00a4\u00a6\u00e0\u00a4\u00bf\u00e0\u00a4\u00b2\u00e0\u00a5\u008d\u00e0\u00a4\u00b2\u00e0\u00a5\u0080 \u00e0\u00a4\u00ae\u00e0\u00a5\u0087\u00e0\u00a4\u0082 \u00e0\u00a4\u0096\u00e0\u00a5\u0081\u00e0\u00a4\u00b2\u00e0\u00a4\u00be ",
+        "article_link": "https://www.ndtv.com/https://hindi.gadgets360.com/internet/ather-space-retail-showroom-open-in-delhi-now-experience-test-ride-buy-450x-electric-scooter-range-116km-price-rs-1-13-lac-116-450-news-2477752?pfrom=home-ndtv_tech",
+        "description": null
+    },
+    {
+        "headline": "Elon Musk \u00e0\u00a4\u0095\u00e0\u00a5\u0087 \u00e0\u00a4\u009f\u00e0\u00a5\u008d\u00e0\u00a4\u00b5\u00e0\u00a5\u0080\u00e0\u00a4\u009f \u00e0\u00a4\u00a8\u00e0\u00a5\u0087 \u00e0\u00a4\u00ab\u00e0\u00a4\u00bf\u00e0\u00a4\u00b0 \u00e0\u00a4\u00ac\u00e0\u00a4\u00a2\u00e0\u00a4\u00bc\u00e0\u00a4\u00be\u00e0\u00a4\u0088 Dogecoin \u00e0\u00a4\u0095\u00e0\u00a5\u0080 \u00e0\u00a4\u0095\u00e0\u00a5\u0080\u00e0\u00a4\u00ae\u00e0\u00a4\u00a4, \u00e0\u00a4\u009c\u00e0\u00a4\u00be\u00e0\u00a4\u00a8\u00e0\u00a5\u0087\u00e0\u00a4\u0082 \u00e0\u00a4\u00b2\u00e0\u00a5\u0087\u00e0\u00a4\u009f\u00e0\u00a5\u0087\u00e0\u00a4\u00b8\u00e0\u00a5\u008d\u00e0\u00a4\u009f \u00e0\u00a4\u00ad\u00e0\u00a4\u00be\u00e0\u00a4\u00b5",
+        "article_link": "https://www.ndtv.com/https://hindi.gadgets360.com/internet/dogecoin-price-jumps-again-after-elon-musk-tweet-baby-doge-spinoff-saw-120-percent-hike-in-24-hours-cryptocurrency-tesla-spacex-news-2477644?pfrom=home-ndtv_tech",
+        "description": null
+    },
+    {
+        "headline": "Battlegrounds Mobile India \u00e0\u00a4\u00b8\u00e0\u00a4\u00ad\u00e0\u00a5\u0080 \u00e0\u00a4\u0095\u00e0\u00a5\u0087 \u00e0\u00a4\u00b2\u00e0\u00a4\u00bf\u00e0\u00a4\u008f \u00e0\u00a4\u00b9\u00e0\u00a5\u0081\u00e0\u00a4\u0086 \u00e0\u00a4\u00b0\u00e0\u00a4\u00bf\u00e0\u00a4\u00b2\u00e0\u00a5\u0080\u00e0\u00a4\u009c\u00e0\u00a4\u00bc, \u00e0\u00a4\u00ae\u00e0\u00a4\u00bf\u00e0\u00a4\u00b2 \u00e0\u00a4\u00b0\u00e0\u00a4\u00b9\u00e0\u00a4\u00be \u00e0\u00a4\u00b9\u00e0\u00a5\u0088 \u00e0\u00a4\u00af\u00e0\u00a4\u00b9 \u00e0\u00a4\u00b0\u00e0\u00a4\u00bf\u00e0\u00a4\u00b5\u00e0\u00a5\u0089\u00e0\u00a4\u00b0\u00e0\u00a5\u008d\u00e0\u00a4\u00a1",
+        "article_link": "https://www.ndtv.com/https://hindi.gadgets360.com/gaming/battlegrounds-mobile-india-officially-released-on-android-download-google-play-store-krafton-giving-constable-set-outfit-rewards-news-2477521?pfrom=home-ndtv_tech",
+        "description": null
+    },
+    {
+        "headline": "5,000mAh \u00e0\u00a4\u00ac\u00e0\u00a5\u0088\u00e0\u00a4\u009f\u00e0\u00a4\u00b0\u00e0\u00a5\u0080 \u00e0\u00a4\u0095\u00e0\u00a5\u0087 \u00e0\u00a4\u00b8\u00e0\u00a4\u00be\u00e0\u00a4\u00a5 Tecno Spark Go 2021 \u00e0\u00a4\u00ad\u00e0\u00a4\u00be\u00e0\u00a4\u00b0\u00e0\u00a4\u00a4 \u00e0\u00a4\u00ae\u00e0\u00a5\u0087\u00e0\u00a4\u0082 \u00e0\u00a4\u00b2\u00e0\u00a5\u0089\u00e0\u00a4\u00a8\u00e0\u00a5\u008d\u00e0\u00a4\u009a, \u00e0\u00a4\u009c\u00e0\u00a4\u00be\u00e0\u00a4\u00a8\u00e0\u00a5\u0087\u00e0\u00a4\u0082 \u00e0\u00a4\u0095\u00e0\u00a5\u0080\u00e0\u00a4\u00ae\u00e0\u00a4\u00a4",
+        "article_link": "https://www.ndtv.com/https://hindi.gadgets360.com/mobiles/tecno-spark-go-2021-launch-with-android-10-go-edition-in-india-price-rs-7299-specifications-details-5000-2021-news-2476871?pfrom=home-ndtv_tech",
+        "description": null
+    },
+    {
+        "headline": "\u00e0\u00a4\u009c\u00e0\u00a5\u0081\u00e0\u00a4\u00b2\u00e0\u00a4\u00be\u00e0\u00a4\u0088 \u00e0\u00a4\u00ae\u00e0\u00a5\u0087\u00e0\u00a4\u0082 OTT \u00e0\u00a4\u00aa\u00e0\u00a5\u008d\u00e0\u00a4\u00b2\u00e0\u00a5\u0087\u00e0\u00a4\u009f\u00e0\u00a4\u00ab\u00e0\u00a5\u0089\u00e0\u00a4\u00b0\u00e0\u00a5\u008d\u00e0\u00a4\u00ae \u00e0\u00a4\u00aa\u00e0\u00a4\u00b0 \u00e0\u00a4\u00b0\u00e0\u00a4\u00bf\u00e0\u00a4\u00b2\u00e0\u00a5\u0080\u00e0\u00a4\u009c\u00e0\u00a4\u00bc \u00e0\u00a4\u00b9\u00e0\u00a5\u008b\u00e0\u00a4\u0082\u00e0\u00a4\u0097\u00e0\u00a5\u0080 \u00e0\u00a4\u0095\u00e0\u00a4\u0088 \u00e0\u00a4\u00ab\u00e0\u00a4\u00bf\u00e0\u00a4\u00b2\u00e0\u00a5\u008d\u00e0\u00a4\u00ae\u00e0\u00a5\u0087\u00e0\u00a4\u0082\n",
+        "article_link": "https://www.ndtv.com/https://hindi.gadgets360.com/internet/haseen-dillruba-collar-bomb-toofaan-and-more-coming-to-netflix-disney-hotstar-prime-video-in-july-news-2476979?pfrom=home-ndtv_tech",
+        "description": null
+    },
+    {
+        "headline": "\u00e0\u00a4\u00af\u00e0\u00a4\u00b9 \u00e0\u00a4\u00a8\u00e0\u00a4\u0088 \u00e0\u00a4\u00ae\u00e0\u00a5\u0087\u00e0\u00a4\u00a1 \u00e0\u00a4\u0087\u00e0\u00a4\u00a8 \u00e0\u00a4\u0087\u00e0\u00a4\u0082\u00e0\u00a4\u00a1\u00e0\u00a4\u00bf\u00e0\u00a4\u00af\u00e0\u00a4\u00be \u00e0\u00a4\u0087\u00e0\u00a4\u00b2\u00e0\u00a5\u0087\u00e0\u00a4\u0095\u00e0\u00a5\u008d\u00e0\u00a4\u009f\u00e0\u00a5\u008d\u00e0\u00a4\u00b0\u00e0\u00a4\u00bf\u00e0\u00a4\u0095 \u00e0\u00a4\u00ac\u00e0\u00a4\u00be\u00e0\u00a4\u0087\u00e0\u00a4\u0095 80 \u00e0\u00a4\u00b0\u00e0\u00a5\u0081\u00e0\u00a4\u00aa\u00e0\u00a4\u00af\u00e0\u00a5\u0087 \u00e0\u00a4\u00ae\u00e0\u00a5\u0087\u00e0\u00a4\u0082 \u00e0\u00a4\u009a\u00e0\u00a4\u00b2\u00e0\u00a5\u0087\u00e0\u00a4\u0097\u00e0\u00a5\u0080 800 \u00e0\u00a4\u0095\u00e0\u00a4\u00bf\u00e0\u00a4\u00b2\u00e0\u00a5\u008b\u00e0\u00a4\u00ae\u00e0\u00a5\u0080\u00e0\u00a4\u009f\u00e0\u00a4\u00b0",
+        "article_link": "https://www.ndtv.com/https://hindi.gadgets360.com/internet/gravton-quanta-made-in-india-electric-bike-launched-price-rs-99000-150km-range-power-features-availability-booking-open-80-800-news-2476926?pfrom=home-ndtv_tech",
+        "description": null
+    },
+    {
+        "headline": "90Hz \u00e0\u00a4\u00a1\u00e0\u00a4\u00bf\u00e0\u00a4\u00b8\u00e0\u00a5\u008d\u00e0\u00a4\u00aa\u00e0\u00a5\u008d\u00e0\u00a4\u00b2\u00e0\u00a5\u0087 \u00e0\u00a4\u0095\u00e0\u00a5\u0087 \u00e0\u00a4\u00b8\u00e0\u00a4\u00be\u00e0\u00a4\u00a5 Samsung Galaxy A22 \u00e0\u00a4\u00ad\u00e0\u00a4\u00be\u00e0\u00a4\u00b0\u00e0\u00a4\u00a4 \u00e0\u00a4\u00ae\u00e0\u00a5\u0087\u00e0\u00a4\u0082 \u00e0\u00a4\u00b2\u00e0\u00a5\u0089\u00e0\u00a4\u00a8\u00e0\u00a5\u008d\u00e0\u00a4\u009a, \u00e0\u00a4\u009c\u00e0\u00a4\u00be\u00e0\u00a4\u00a8\u00e0\u00a5\u0087\u00e0\u00a4\u0082 \u00e0\u00a4\u0095\u00e0\u00a5\u0080\u00e0\u00a4\u00ae\u00e0\u00a4\u00a4",
+        "article_link": "https://www.ndtv.com/https://hindi.gadgets360.com/mobiles/samsung-galaxy-a22-launch-with-48mp-primary-rear-cameras-90hz-display-in-india-price-rs-18499-specifications-details-48-90-22-news-2476217?pfrom=home-ndtv_tech",
+        "description": null
+    },
+    {
+        "headline": "LinkedIn \u00e0\u00a4\u00af\u00e0\u00a5\u0082\u00e0\u00a4\u009c\u00e0\u00a4\u00b0\u00e0\u00a5\u008d\u00e0\u00a4\u00b8 \u00e0\u00a4\u00b8\u00e0\u00a4\u00be\u00e0\u00a4\u00b5\u00e0\u00a4\u00a7\u00e0\u00a4\u00be\u00e0\u00a4\u00a8: 70 \u00e0\u00a4\u0095\u00e0\u00a4\u00b0\u00e0\u00a5\u008b\u00e0\u00a4\u00a1\u00e0\u00a4\u00bc \u00e0\u00a4\u00af\u00e0\u00a5\u0082\u00e0\u00a4\u009c\u00e0\u00a4\u00b0\u00e0\u00a5\u008d\u00e0\u00a4\u00b8 \u00e0\u00a4\u0095\u00e0\u00a4\u00be \u00e0\u00a4\u00aa\u00e0\u00a4\u00b0\u00e0\u00a5\u008d\u00e0\u00a4\u00b8\u00e0\u00a4\u00a8\u00e0\u00a4\u00b2 \u00e0\u00a4\u00a1\u00e0\u00a5\u0087\u00e0\u00a4\u009f\u00e0\u00a4\u00be \u00e0\u00a4\u00b2\u00e0\u00a5\u0080\u00e0\u00a4\u0095",
+        "article_link": "https://www.ndtv.com/https://hindi.gadgets360.com/internet/linkedin-massive-data-beach-of-700-million-personal-details-phone-number-email-id-leaked-sold-online-news-2476084?pfrom=home-ndtv_tech",
+        "description": null
+    },
+    {
+        "headline": "\u00e0\u00a4\u0087\u00e0\u00a4\u00b8 \u00e0\u00a4\u00b8\u00e0\u00a4\u00b0\u00e0\u00a4\u0095\u00e0\u00a4\u00be\u00e0\u00a4\u00b0\u00e0\u00a5\u0080 \u00e0\u00a4\u00b5\u00e0\u00a5\u0087\u00e0\u00a4\u00ac\u00e0\u00a4\u00b8\u00e0\u00a4\u00be\u00e0\u00a4\u0087\u00e0\u00a4\u009f \u00e0\u00a4\u00b8\u00e0\u00a5\u0087 50 \u00e0\u00a4\u00b2\u00e0\u00a4\u00be\u00e0\u00a4\u0096 \u00e0\u00a4\u00ad\u00e0\u00a4\u00be\u00e0\u00a4\u00b0\u00e0\u00a4\u00a4\u00e0\u00a5\u0080\u00e0\u00a4\u00af\u00e0\u00a5\u008b\u00e0\u00a4\u0082 \u00e0\u00a4\u0095\u00e0\u00a4\u00be \u00e0\u00a4\u0086\u00e0\u00a4\u00a7\u00e0\u00a4\u00be\u00e0\u00a4\u00b0 \u00e0\u00a4\u00a8\u00e0\u00a4\u0082\u00e0\u00a4\u00ac\u00e0\u00a4\u00b0 \u00e0\u00a4\u00b8\u00e0\u00a4\u00ae\u00e0\u00a5\u0087\u00e0\u00a4\u00a4 \u00e0\u00a4\u00a8\u00e0\u00a4\u00bf\u00e0\u00a4\u009c\u00e0\u00a5\u0080 \u00e0\u00a4\u00a1\u00e0\u00a5\u0087\u00e0\u00a4\u009f\u00e0\u00a4\u00be \u00e0\u00a4\u00b9\u00e0\u00a5\u0081\u00e0\u00a4\u0086 \u00e0\u00a4\u00b2\u00e0\u00a5\u0080\u00e0\u00a4\u0095",
+        "article_link": "https://www.ndtv.com/https://hindi.gadgets360.com/internet/tamil-nadu-pds-data-breached-uploaded-on-hacker-forum-aadhaar-number-postal-address-of-50-lakh-people-leaked-50-news-2476075?pfrom=home-ndtv_tech",
+        "description": null
+    },
+    {
+        "headline": " Best Hair Wax For Men: Hair Wax vs Gel And Hair Wax Side Effects ",
+        "article_link": "https://www.ndtv.com/https://hotdeals360.com/beauty/hair-wax-for-men-in-india-1747304?pfrom=home-ndtv_tech",
+        "description": null
+    },
+    {
+        "headline": "10 Best Stylish Caps For Men",
+        "article_link": "https://www.ndtv.com/https://hotdeals360.com/fashion/best-caps-for-boys-from-top-brands-2398328?pfrom=home-ndtv_tech",
+        "description": null
+    },
+    {
+        "headline": "Top Ranking Power Banks in India for Prolonged Battery Life",
+        "article_link": "https://www.ndtv.com/https://hotdeals360.com/gadgets/top-ranking-power-banks-in-india-for-prolonged-battery-life-1815469?pfrom=home-ndtv_tech",
+        "description": null
+    },
+    {
+        "headline": "15 At Home Date Night Ideas for Romantic Evenings on a Budget",
+        "article_link": "https://www.ndtv.com/https://hotdeals360.com/lifestyle/best-at-home-date-night-ideas-2362777?pfrom=home-ndtv_tech",
+        "description": null
+    },
+    {
+        "headline": "Best Housewarming Gifts",
+        "article_link": "https://www.ndtv.com/https://hotdeals360.com/lifestyle/best-housewarming-gifts-to-buy-online-2384716?pfrom=home-ndtv_tech",
+        "description": null
+    },
+    {
+        "headline": "10 Best Energy Bars: More Power to You",
+        "article_link": "https://www.ndtv.com/https://hotdeals360.com/lifestyle/best-energy-bars-in-india-2025514?pfrom=home-ndtv_tech",
+        "description": null
+    },
+    {
+        "headline": "Top GPS trackers for kids to ensure their safety",
+        "article_link": "https://www.ndtv.com/https://hotdeals360.com/gadgets/top-gps-trackers-for-kids-to-ensure-their-safety-1728905?pfrom=home-ndtv_tech",
+        "description": null
+    },
+    {
+        "headline": "Best Summer Dresses in 2021 For A Stylish Makeover",
+        "article_link": "https://www.ndtv.com/https://hotdeals360.com/fashion/summer-dresses-for-women-online-2417378?pfrom=home-ndtv_tech",
+        "description": null
+    },
+    {
+        "headline": "Smart Terrace Makeover Tips",
+        "article_link": "https://www.ndtv.com/https://hotdeals360.com/lifestyle/smart-terrace-makeover-tips-2217364?pfrom=home-ndtv_tech",
+        "description": null
+    },
+    {
+        "headline": "Popular Mobiles  ",
+        "article_link": "https://www.ndtv.com/https://gadgets.ndtv.com/mobiles/phone-finder?pfrom=home-tech",
+        "description": null
+    },
+    {
+        "headline": " Popular Laptops",
+        "article_link": "https://www.ndtv.com/https://gadgets.ndtv.com/laptops/all-brands?pfrom=home-tech",
+        "description": null
+    },
+    {
+        "headline": "Movies",
+        "article_link": "https://www.ndtv.com/https://www.ndtv.com/entertainment?pfrom=home-ndtv_movies",
+        "description": null
+    },
+    {
+        "headline": "Mohanlal, Jeethu Joseph Collaborate Again For '12th Man'",
+        "article_link": "https://www.ndtv.com/https://www.ndtv.com/entertainment/12th-man-mohanlal-and-drishyam-director-jeethu-joseph-collaborate-again-for-suspense-thriller-2479642?pfrom=home-ndtv_movies",
+        "description": null
+    },
+    {
+        "headline": "\n            Hindi News",
+        "article_link": "https://www.ndtv.com/ http://ndtv.in?pfrom=home-ndtv_khabar-ndtvhp",
+        "description": null
+    },
+    {
+        "headline": "\n            Cricket News",
+        "article_link": "https://www.ndtv.com/https://sports.ndtv.com/cricket?pfrom=home-ndtv_cricket",
+        "description": null
+    },
+    {
+        "headline": "\n                    SL vs IND: Dhawan's Focus Will Be To Secure T20 WC Spot, Says VVS Laxman",
+        "article_link": "https://www.ndtv.com/https://sports.ndtv.com/sri-lanka-vs-india-2021/sri-lanka-vs-india-vvs-laxman-says-shikhar-dhawans-focus-will-be-to-score-runs-and-secure-spot-in-t20-world-cup-squad-2479461?pfrom=home-ndtv_cricket",
+        "description": null
+    },
+    {
+        "headline": "\n                    IPL Will Wear Out UAE Pitches Ahead Of T20 World Cup: Mark Boucher",
+        "article_link": "https://www.ndtv.com/https://sports.ndtv.com/cricket/ipl-will-wear-out-uae-pitches-ahead-of-t20-world-cup-says-south-africa-coach-mark-boucher-2479420?pfrom=home-ndtv_cricket",
+        "description": null
+    },
+    {
+        "headline": "\n                    3rd ODI: Rain Ends England's Bid For Series Sweep Against Sri Lanka",
+        "article_link": "https://www.ndtv.com/https://sports.ndtv.com/cricket/england-vs-sri-lanka-tom-currans-four-wicket-haul-in-vain-as-rain-ends-englands-bid-for-odi-series-sweep-2479213?pfrom=home-ndtv_cricket",
+        "description": null
+    },
+    {
+        "headline": "\n                    \"Don't Seek Validation From People\": Mithali On Criticism Of Strike-Rate",
+        "article_link": "https://www.ndtv.com/https://sports.ndtv.com/cricket/england-women-vs-india-women-mithali-raj-on-criticism-of-strike-rate-dont-seek-validation-from-people-2479116?pfrom=home-ndtv_cricket",
+        "description": null
+    },
+    {
+        "headline": "\n        Business News",
+        "article_link": "https://www.ndtv.com/ https://www.ndtv.com/business?pfrom=home-ndtv_business",
+        "description": null
+    },
+    {
+        "headline": "\n                    Sensex Rallies Nearly 400 Points, Nifty Settles Above 15,800 Led By Banks",
+        "article_link": "https://www.ndtv.com/https://www.ndtv.com/business/share-market-updates-sensex-rallies-nearly-400-points-nifty-settles-above-15-800-led-by-banks-2479646?pfrom=home-ndtv_business",
+        "description": null
+    },
+    {
+        "headline": "\n        Auto News\n    ",
+        "article_link": "https://www.ndtv.com/https://www.carandbike.com/?pfrom=home-ndtv_auto",
+        "description": null
+    },
+    {
+        "headline": "\n            Audi e-tron 55 Quattro Review",
+        "article_link": "https://www.ndtv.com/https://www.carandbike.com/reviews/audi-e-tron-55-quattro-review-2479380?pfrom=home-ndtv_auto",
+        "description": null
+    },
+    {
+        "headline": "\n        Education  \n\n",
+        "article_link": "https://www.ndtv.com/https://www.ndtv.com/education?pfrom=home-ndtv_education",
+        "description": null
+    },
+    {
+        "headline": "\n            Bihar Schools, Colleges To Reopen With 50% Attendance: Chief Minister",
+        "article_link": "https://www.ndtv.com/https://www.ndtv.com/education/school-reopening-latest-news-bihar-schools-colleges-universities-resume-offline-classes-50-percent-attendance?pfrom=home-ndtv_education",
+        "description": null
+    },
+    {
+        "headline": "\n        Food\n    ",
+        "article_link": "https://www.ndtv.com/https://food.ndtv.com/?pfrom=home-ndtv_recipes",
+        "description": null
+    },
+    {
+        "headline": "\n            Low Carb Keto Thepla - An Easy And Healthy Breakfast Recipe",
+        "article_link": "https://www.ndtv.com/https://food.ndtv.com/food-drinks/watch-low-carb-keto-thepla-recipe-easy-and-healthy-breakfast-recipe-for-busy-mornings-2479701?pfrom=home-ndtv_recipes",
+        "description": null
+    },
+    {
+        "headline": "\n        LIFESTYLE  \n\n",
+        "article_link": "https://www.ndtv.com/https://swirlster.ndtv.com/?pfrom=home-ndtv_lifestyle",
+        "description": null
+    },
+    {
+        "headline": "\n            5 Best Natural Detox Tips For Skin And Body This Monsoon",
+        "article_link": "https://www.ndtv.com/https://swirlster.ndtv.com/beauty/5-best-natural-detox-tips-for-skin-and-body-this-monsoon-2479770?pfrom=home-ndtv_lifestyle",
+        "description": null
+    },
+    {
+        "headline": "\n        India News\n    ",
+        "article_link": "https://www.ndtv.com/https://www.ndtv.com/india",
+        "description": null
+    },
+    {
+        "headline": "\n            Nandan Nilekani To Join 9-Member Government Panel To Curb Digital Monopolies",
+        "article_link": "https://www.ndtv.com/https://www.ndtv.com/india-news/nandan-nilekani-to-join-9-member-government-panel-to-curb-digital-monopolies-2479859?pfrom=home-ndtv_indiatrending ",
+        "description": null
+    },
+    {
+        "headline": "\n        Offbeat\n    ",
+        "article_link": "https://www.ndtv.com/https://www.ndtv.com/offbeat",
+        "description": null
+    },
+    {
+        "headline": "\n            \"Guess...\" Hanuma Vihari's Latest Twitter Post Gets Hilarious Responses",
+        "article_link": "https://www.ndtv.com/https://www.ndtv.com/offbeat/hanuma-vihari-shares-picture-of-himself-speaking-over-phone-asks-people-to-guess-conversation-2479655?pfrom=home-ndtv_offbeattrending ",
+        "description": null
+    },
+    {
+        "headline": "\n        Sports News ",
+        "article_link": "https://www.ndtv.com/ https://sports.ndtv.com?pfrom=home-ndtv_sports",
+        "description": null
+    },
+    {
+        "headline": "\n        Health ",
+        "article_link": "https://www.ndtv.com/ https://doctor.ndtv.com/?pfrom=home-ndtv_health",
+        "description": null
+    },
+    {
+        "headline": "\n        Art & Design ",
+        "article_link": "https://www.ndtv.com/ https://www.mojarto.com/?pfrom=home-ndtv_specialprojects",
+        "description": null
+    },
+    {
+        "headline": "\n            Cities ",
+        "article_link": "https://www.ndtv.com/https://www.ndtv.com/cities",
+        "description": null
+    },
+    {
+        "headline": "\n            Heroin Worth Over Rs 600 Crore Seized At Delhi Airport In Last Six Months",
+        "article_link": "https://www.ndtv.com/https://www.ndtv.com/delhi-news/customs-seizes-heroin-worth-over-rs-600-crore-at-delhi-airport-in-last-six-months-2479660?pfrom=home-ndtv_citiestrending ",
+        "description": null
+    },
+    {
+        "headline": "\n            South News ",
+        "article_link": "https://www.ndtv.com/https://www.ndtv.com/south",
+        "description": null
+    },
+    {
+        "headline": "\n            Rats Empty 12 Closed Wine Bottles Kept In Liquor Outlet",
+        "article_link": "https://www.ndtv.com/https://www.ndtv.com/tamil-nadu-news/tamil-nadu-rats-empty-12-closed-wine-bottles-kept-in-liquor-outlet-2479874?pfrom=home-ndtv_southtrending ",
+        "description": null
+    },
+    {
+        "headline": "\n            World News ",
+        "article_link": "https://www.ndtv.com/https://www.ndtv.com/world-news",
+        "description": null
+    },
+    {
+        "headline": "\n            France Warns COVID-19 Fourth Wave Could Hit By July End",
+        "article_link": "https://www.ndtv.com/https://www.ndtv.com/world-news/coronavirus-france-warns-coronavirus-fourth-wave-could-hit-by-end-july-2479795?pfrom=home-ndtv_worldtrending ",
+        "description": null
+    },
+    {
+        "headline": "\n            People ",
+        "article_link": "https://www.ndtv.com/https://www.ndtv.com/people",
+        "description": null
+    },
+    {
+        "headline": "\n            \"Changemakers For Their Generation\": Several Indian Teens On Diana Award List",
+        "article_link": "https://www.ndtv.com/https://www.ndtv.com/people/lsr-college-student-devanshi-ranjan-wins-prestigious-diana-award-2475116?pfrom=home-ndtv_peopletrending ",
+        "description": null
+    },
+    {
+        "headline": "\n            Jobs ",
+        "article_link": "https://www.ndtv.com/https://www.ndtv.com/jobs?pfrom=home-ndtv_jobs",
+        "description": null
+    },
+    {
+        "headline": "\n            Posts For Which MPSC Exams Concluded To Be Filled By July 31: Ajit Pawar",
+        "article_link": "https://www.ndtv.com/https://www.ndtv.com/jobs/posts-for-which-mpsc-exams-concluded-to-be-filled-by-july-31-ajit-pawar-2479691?pfrom=home-ndtv_jobs",
+        "description": null
+    },
+    {
+        "headline": "\n            Fashion ",
+        "article_link": "https://www.ndtv.com/https://swirlster.ndtv.com/style?pfrom=home-ndtv_fashion",
+        "description": null
+    },
+    {
+        "headline": "\n            Jacqueline Fernandez Single-Handedly Nails The Cutout Trend",
+        "article_link": "https://www.ndtv.com/https://swirlster.ndtv.com/style/jacqueline-fernandez-single-handedly-makes-the-cutout-trend-the-most-stylish-ever-2479630?pfrom=home-ndtv_fashion",
+        "description": null
+    },
+    {
+        "headline": "\n        Campaigns\n    ",
+        "article_link": "https://www.ndtv.com/",
+        "description": null
+    },
+    {
+        "headline": "\n                    Doctors On COVID Duty Recall The Horrifying Second Wave And Its Impact On Mental Health",
+        "article_link": "https://www.ndtv.com/https://swachhindia.ndtv.com/national-doctors-day-2021-doctors-on-covid-duty-recall-the-horrifying-second-wave-and-its-impact-on-mental-health-60725/?pfrom=home-ndtv_campaigns",
+        "description": null
+    },
+    {
+        "headline": " #Justice4EveryChild: In Bengaluru, Three Siblings Sexually Abused By Their Own Uncle\n",
+        "article_link": "https://www.ndtv.com/https://special.ndtv.com/justice-for-every-child-87/video-detail/in-bengaluru-three-siblings-sexually-abused-by-their-own-uncle-592065?pfrom=home-ndtv_campaigns",
+        "description": null
+    },
+    {
+        "headline": " Vaccinate India: How Soon Will Covovax Be Available In India? Novavax CEO Tells NDTV\n",
+        "article_link": "https://www.ndtv.com/https://special.ndtv.com/vaccinate-india-92/video-detail/how-soon-will-covovax-be-available-in-india-592587?pfrom=home-ndtv_campaigns",
+        "description": null
+    },
+    {
+        "headline": " Video ",
+        "article_link": "https://www.ndtv.com/https://www.ndtv.com/video",
+        "description": null
+    },
+    {
+        "headline": "\n                            Making CoWIN Platform Open Source To Help Other Countries, Says PM Modi6:40\n                        ",
+        "article_link": "https://www.ndtv.com/https://www.ndtv.com/video/news/news/pm-modi-on-covid-19-vaccination-making-cowin-platform-open-source-to-help-other-countries-says-pm-mo-592654?pfrom=home-ndtv_videos",
+        "description": null
+    },
+    {
+        "headline": " Photos",
+        "article_link": "https://www.ndtv.com/https://www.ndtv.com/photos",
+        "description": null
+    },
+    {
+        "headline": "\n                          Inside Ranbir Kapoor And Arjun's Football Match\n                               6 images\n                            \n                        ",
+        "article_link": "https://www.ndtv.com/https://www.ndtv.com/photos/entertainment/inside-ranbir-kapoor-and-arjuns-football-match-100119?pfrom=home-ndtv_photos",
+        "description": null
+    },
+    {
+        "headline": " NDTV Group Sites",
+        "article_link": "",
+        "description": null
+    }
+]
