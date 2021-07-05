@@ -174,8 +174,33 @@ class NewsScraperApp:
         return
 
 
+    # """Scrap all urls of a website"""
+    # def scrap_all_urls(self):
+    #     #Creating an empty list 
+    #     urls = []
+    #     site = self.url
+
+    #     #Creating requests for urls
+    #     response = requests.get(site)
+    #     soup = BeautifulSoup(response.text, 'html5lib')
+
+    #     for link in soup.find_all('a'):
+    #         href = link.attrs['href']
+    #         if href.startswith("/"):
+    #             site = site + href
+    #             if site not in urls:
+    #                 urls.append(site)
+    #                 print(site)
+    #                 #calling the scrape function itself
+    #                 #generally called recursion
+    #                 self.scrap_all_urls(site)
+
+
+
     def data_parse(self, soup):
         news = []
+        urls = []
+        site = self.url
         for data in soup.find_all(['h2', 'h3']):
             single_news = {
                 "headline": data.getText(),
@@ -184,10 +209,14 @@ class NewsScraperApp:
             }
             
             try:
-                # single_news["article_link"] = data.findChild('a')['href']
-                single_news["description"] = data.find_next_sibling('p')
+                for link in data.find_all('a'):
+                    href = link.attrs['href']
+                    full_url = "{}{}".format(site, href)
+                    single_news["article_link"] = full_url
+                    print(full_url)
+                single_news["description"] = data.find_next_sibling('p').text
             except TypeError:
-                # single_news["article_link"] = data.find_parent('a')
+                single_news["article_link"] = data.find_parent('a').text
                 single_news["description"] = data.find('p')
             except AttributeError:
                 single_news["description"] = data.find_next_sibling('a')
@@ -200,7 +229,7 @@ class NewsScraperApp:
 
     def get_general_news(self):
         response = requests.get(self.url)
-        soup = BeautifulSoup(response.content, 'html5lib')
+        soup = BeautifulSoup(response.text, 'html5lib')
 
         data = self.data_parse(soup)
         with open('general-news.txt', 'w') as output_file:
@@ -218,3 +247,4 @@ class NewsScraperApp:
 if __name__ == "__main__":
     scraper = NewsScraperApp(input("Please input or paste your news URL: "))
     print(scraper.get_general_news())
+    # print(scraper.scrap_all_urls())
