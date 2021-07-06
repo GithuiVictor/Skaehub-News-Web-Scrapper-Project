@@ -6,7 +6,7 @@
 ### A project completed as part of the Cycle #1 Skaehub Boot Camp program's first checkpoint. 
 
 #### Problem Definition
-The main goal of this project is to accept a user's news url as input, scrape all of the news data from the url, display the data in the CLI app, and save it to a.txt file. 
+The main goal of this project is to accept a user's news url as input, scrape all of the news data from the url, display the data in the CLI app, and save it to a .txt file. 
 
 #### How are we supposed to achieve this?
 * Explore news sites and understand how different sites are structured so that you can have some knowledge on how to extract the information that is relevant to you
