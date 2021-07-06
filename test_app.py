@@ -71,14 +71,14 @@ soup = BeautifulSoup(res, 'html5lib')
 class test_scaper(TestCase):
 
     #testing when the user enters an empty string as a url
-    def test_blank_url(self):
-        def is_url(url):
-            try:
-                result = urlparse(url)
-                return all([result.scheme, result.netloc])
-            except ValueError:
-                 return False
-        self.assertFalse(is_url(''))
+    # def test_blank_url(self):
+    #     def is_url(url):
+    #         try:
+    #             result = urlparse(url)
+    #             return all([result.scheme, result.netloc])
+    #         except ValueError:
+    #              return False
+    #     self.assertFalse(is_url(''))
 
 
     #testing when the user enters an invalid string as a url
