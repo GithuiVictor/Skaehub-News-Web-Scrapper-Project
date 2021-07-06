@@ -19,6 +19,10 @@ The main goal of this project is to accept a user's news url as input, scrape al
   ```python
     sudo apt-get install python-bs4
   ```
+  * Or on the cloned directory run
+  ```python
+    pip3 install requirements.txt
+  ```
 * Prompt or Request input from the user. It should be a news url.
 * Make a HTTP request from the url
 ```python
