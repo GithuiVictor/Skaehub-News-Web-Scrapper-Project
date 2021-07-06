@@ -5,153 +5,153 @@
         "description": null
     },
     {
-        "headline": "As TikTok dance strike goes on, white creators struggle",
+        "headline": "Black TikTok creators tired of Addison Rae, others",
         "article_link": "",
         "description": null
     },
     {
-        "headline": "Vaccine hesitancy now almost wholly a GOP problem",
+        "headline": "4 more victims found in Florida condo rubble",
         "article_link": "",
         "description": null
     },
     {
-        "headline": "Hacker gang demands $70 million to unlock devices",
+        "headline": "Hackers demand $70M after weekend cyberattack",
         "article_link": "",
         "description": null
     },
     {
-        "headline": "3 bodies found as search resumes at Florida condo",
+        "headline": "Worried firefighters battle blazes across California",
         "article_link": "",
         "description": null
     },
     {
-        "headline": "Fires rage across state amid dangerous conditions",
+        "headline": "White man arrested after confronting Black neighbor",
         "article_link": "",
         "description": null
     },
     {
-        "headline": "Allen Weisselberg tax-fraud case: What to know about the charges",
-        "article_link": "https://news.yahoo.com/allen-weisselberg-tax-fraud-case-what-to-know-about-the-charges-163215462.html",
-        "description": "Allen Weisselberg, the chief financial officer of the Trump Organization with close ties to former President Donald Trump, is at the center of an alleged tax-fraud scheme that spans more than a decade, according to an indictment unsealed last week in New York. Prosecutors say that the Trump Organization paid Weisselberg with lavish perks such as New York City apartments, luxury cars, private school tuition and other personal expenses, in addition to his base salary, and did not report that compensation to tax authorities, evading more than $900,000 in federal, state and local taxes. Attorneys for Weisselberg and the company pleaded not guilty in the case on Thursday, and said they plan to fight the charges."
-    },
-    {
-        "headline": "Iraqi militia commander vows to avenge deaths in US strike",
-        "article_link": "https://news.yahoo.com/iraqi-militia-commander-vows-avenge-030806423.html",
-        "description": "The leader of an Iran-backed Iraqi militia has vowed to retaliate against America for the deaths of four of his men in a U.S. airstrike along the Iraq-Syria border last month, saying it will be a military operation everyone will talk about. Abu Alaa al-Walae, commander of Kataib Sayyid al-Shuhada, said in an exclusive interview with The Associated Press in Baghdad that the electoral victory of Iran's hard-line judiciary chief Ebrahim Raisi as president will strengthen Iran-backed militant groups throughout the Middle East for the next four years. Al-Walae, who rarely gives interviews to foreign media organizations, spoke to AP on Monday in an office in a Baghdad neighborhood along the Tigris River."
-    },
-    {
-        "headline": "8 people wounded in shooting near Fort Worth car wash",
-        "article_link": "https://news.yahoo.com/8-people-wounded-shooting-near-161011437.html",
-        "description": "Eight people were wounded early Sunday when a person began shooting toward groups of people near a Fort Worth car wash and multiple people returned fire, police said. Police said in a statement that the eight gunshot victims were taken to hospitals and were in stable condition. Police said multiple people in the area then returned fire."
-    },
-    {
-        "headline": "Analysis-OPEC disagreement lays bare growing UAE-Saudi economic rivalry",
-        "article_link": "https://news.yahoo.com/analysis-opec-disagreement-lays-bare-164712333.html",
-        "description": "Rare public disagreement between the United Arab Emirates and Saudi Arabia over OPEC policy points to a growing economic rivalry between the two largest Arab economies which only looks set to intensify, several regional analysts said. The UAE's opposition this weekend to a proposed eight-month extension to output curbs, favoured by Saudi Arabia, was a rare display of defiance by Abu Dhabi, whose Crown Prince Mohammed bin Zayed al-Nahyan has been a staunch ally of Saudi Crown Prince Mohammed bin Salman. The disagreement led the OPEC+ talks to be called off on Monday."
-    },
-    {
-        "headline": "India's Covid doctors demand action after attacks",
-        "article_link": "https://news.yahoo.com/indias-covid-doctors-demand-action-230712691.html",
-        "description": "Dr Seuj Kumar Senapati vividly remembers the afternoon in early June he thought he would die. It was his first job and his second day at work at a Covid care centre in Hojai district, in India's north-eastern state of Assam. In moments, Dr Senapati recalled, all hell broke loose."
-    },
-    {
-        "headline": "Press watchdog puts Hungarian PM Orban on 'predators' list",
-        "article_link": "https://news.yahoo.com/press-watchdog-puts-hungarian-pm-142516764.html",
-        "description": "Press watchdog Reporters Without Borders has put Hungarian Prime Minister Viktor Orban on its list of \u201cpredators,\u201d the first time a Western European leader has been placed in the line-up of heads of state or government who \u201ccrack down massively\u201d on press freedom. Two women, the prime minister of Bangladesh and the Hong Kong's administrative chief, also were added to the list, as well as Saudi Arabia's Crown Prince Mohammed bin Salman. This was the first time in five years that the watchdog, known by its French initials RSF, has published its press freedom predator's list."
-    },
-    {
-        "headline": "Donald Trump feared Ghislaine Maxwell could embroil him in Jeffrey Epstein scandal, new book claims",
-        "article_link": "https://news.yahoo.com/donald-trump-feared-ghislaine-maxwell-182122801.html",
-        "description": "Donald Trump feared that Ghislaine Maxwell could embroil him in the Jeffrey Epstein scandal, the author Michael Wolff has claimed in a new book. Mr Trump had sought to play down his long association with financier Epstein, who was found dead in his prison cell in 2019 while awaiting trial on sex trafficking charges. The arrest of Ghislaine Maxwell, who faces sex trafficking and other charges stemming from her relationship with Epstein, worried Mr Trump, Wolff has written in his latest book detailing the final days of his administration and the post-election aftermath."
-    },
-    {
-        "headline": "Rescuers resume search for 24 missing in Japan landslides",
-        "article_link": "https://news.yahoo.com/rescuers-resume-search-24-missing-013908515.html",
-        "description": "Rescuers in Japan waded through mud, rock and splintered wood in search of 24 people still missing on Tuesday after heavy rain triggered massive landslides in the seaside city of Atami three days ago, killing four people. Police, fire fighters and military personnel resumed rescue operation, suspended for the night on Monday, at around 6:00 a.m. (2100 GMT Monday). The landslides occured around 10:30 a.m. on Saturday, and time is running out for any survivors trapped beneath the rubble."
-    },
-    {
-        "headline": "Echoes of 1989 as foreign forces withdraw from Afghanistan",
-        "article_link": "https://news.yahoo.com/echoes-1989-foreign-forces-withdraw-235003494.html",
-        "description": "Britain also shut its gates on its magnificent white stucco compound once hailed as the \"finest in Asia\". \"UK ministers felt that they had no choice but to follow suit even though our embassy staff were keen to stay put and carry on with the job,\" recalls Stephen Evans, a former British ambassador to Afghanistan who was then the Afghanistan desk officer in the British foreign office. Both Washington and London promised they'd soon be back, but their missions would stay shut until a US-led invasion in 2001 toppled the Taliban."
+        "headline": "Belarus jails Lukashenko foe Babariko for 14 years in 'sham' trial",
+        "article_link": "https://news.yahoo.com//belarus-jails-former-presidential-contender-071949983.html",
+        "description": "MOSCOW (Reuters) -A court in Belarus jailed former presidential contender Viktor Babariko for 14 years on Tuesday after convicting him on corruption charges he denied, sparking condemnation from the West and the embattled opposition-in-exile. Before his arrest last June, opinion polls suggested Babariko, 57, was veteran leader Alexander Lukashenko's main rival ahead of a presidential election which the opposition says was rigged last August to prolong Lukashenko's long rule. In power since 1994, Lukashenko claimed a landslide election victory and a new term as president, sparking the biggest protests in the modern history of the Moscow-backed ex-Soviet republic of 9.7 million."
     },
     {
         "headline": "Egypt: Ethiopia begins disputed filling of dam amid tensions",
-        "article_link": "https://news.yahoo.com/egypt-ethiopia-begins-disputed-filling-220714075.html",
+        "article_link": "https://news.yahoo.com//egypt-ethiopia-begins-disputed-filling-220714075.html",
         "description": "Egypt said Monday that Ethiopia has reported it is starting to fill the reservoir of a controversial dam on the Nile River's main tributary, a move likely to increase tensions ahead of a U.N. Security Council meeting on the dispute, which also includes Sudan. A statement by Egypt's Irrigation Ministry said Minister Mohammed Abdel-Aty received an official notice from his Ethiopian counterpart notifying Egypt of the reservoir filling for the second year. The statement said Egypt categorically rejects such a \u201cunilateral move,\u201d calling it a \u201cclear and grave violation\u201d of a 2015 agreement."
     },
     {
-        "headline": "How has GOP Rep. Paul Gosar escaped the censure and glaring spotlight trained on Marjorie Taylor Greene?",
-        "article_link": "https://news.yahoo.com/why-isnt-gop-congressman-paul-055727794.html",
-        "description": "\"But the actions of Congressman Paul Gosar in recent months have tested that proposition.\" Rep. Gosar (R-Ariz.), a far-right Republican in Congress since 2010, first gained national notoriety when six of his siblings warned voters about his extremism and endorsed his opponent in 2018. The organizers of the Jan. 6 Capitol riot claim him as a driving force, and in February, Gosar was the surprise keynote speaker\u00a0and only member of Congress at\u00a0an event\u00a0hosted by the white nationalist group America First and its founder, Nicholas Fuentes."
+        "headline": "Japan deputy PM comment on defending Taiwan if invaded angers China",
+        "article_link": "https://news.yahoo.com//japans-aso-peaceful-solution-desirable-030857876.html",
+        "description": "Japan's deputy prime minister said the country needed to defend Taiwan with the United States if the island was invaded, Kyodo news agency reported late on Monday, angering Beijing which regards Taiwan as its own territory. China has never ruled out using force to reunite Taiwan with the mainland and recent military exercises by China and Taiwan across the Straits of Taiwan have raised tensions. \"If a major problem took place in Taiwan, it would not be too much to say that it could relate to a survival-threatening situation (for Japan),\" Japan's deputy prime minister Taro Aso said at a fundraising party by a fellow Liberal Democratic Party lawmaker, according to Kyodo."
     },
     {
-        "headline": "Kansas City police take \u2018person of interest\u2019 into custody in death of 28-year-old",
-        "article_link": "https://news.yahoo.com/kansas-city-police-person-interest-013828626.html",
-        "description": "A \u201cperson of interest\u201d is now in custody in the death of a 28-year-old man, Deangelo Davis, who was found dead in the street early Monday in downtown Kansas City. Kansas City Police on Monday evening said that detectives will be working with prosecutors to present a case so that they can make a determination of applicable charges. If the person of interest is charged, the name will become public at that time."
+        "headline": "Stan Swamy: India outrage over death of jailed activist",
+        "article_link": "https://news.yahoo.com//stan-swamy-india-outrage-over-061443685.html",
+        "description": "Thousands of activists, political leaders and Indian citizens have taken to social media to pay tributes to jailed tribal rights activist Stan Swamy who died at the age of 84. Many also expressed anger at the way he was jailed during Covid-19 and repeatedly denied bail. The Jesuit priest, who suffered from Parkinson's disease, was the oldest to be accused of terrorism in India."
     },
     {
-        "headline": "5 Statement Pitchers to Make a Splash",
-        "article_link": "https://news.yahoo.com/5-statement-pitchers-splash-120000771.html",
-        "description": "This summer's hottest tablescape statement piece Originally Appeared on Architectural Digest"
+        "headline": "Iraqi militia commander vows to avenge deaths in US strike",
+        "article_link": "https://news.yahoo.com//iraqi-militia-commander-vows-avenge-030806423.html",
+        "description": "The leader of an Iran-backed Iraqi militia has vowed to retaliate against America for the deaths of four of his men in a U.S. airstrike along the Iraq-Syria border last month, saying it will be a military operation everyone will talk about. Abu Alaa al-Walae, commander of Kataib Sayyid al-Shuhada, said in an exclusive interview with The Associated Press in Baghdad that the electoral victory of Iran's hard-line judiciary chief Ebrahim Raisi as president will strengthen Iran-backed militant groups throughout the Middle East for the next four years. Al-Walae, who rarely gives interviews to foreign media organizations, spoke to the AP on Monday in an office in a Baghdad neighborhood along the Tigris River."
     },
     {
-        "headline": "At least 45 killed in Philippine Air Force plane crash",
-        "article_link": "https://news.yahoo.com/least-45-killed-philippine-air-224601878.html",
-        "description": "Plumes of thick, black smoke could be seen rising in the sky after a Philippines Air Force troop plane crashed and burst into flames on Sunday, killing at least 45 people - the country's worst military air disaster in nearly 30 years. That's according to officials who said a number of soldiers jumped out of the aircraft before it hit the ground. It was not immediately clear how many jumped or whether they had survived."
+        "headline": "Iran says small roof damage from June sabotage at nuclear site",
+        "article_link": "https://news.yahoo.com//iran-says-small-roof-damage-084658947.html",
+        "description": "There was limited damage from a sabotage attempt at a building of Iran's Atomic Energy Organization in June, the Iranian government said on Tuesday, despite satellite images appearing to show that part of a roof was missing. \"We have had no damage to equipment. There was small damage to a roof and the (satellite) pictures were taken when the roof was removed for repairs,\" government spokesman Ali Rabiei told a news conference carried by state media."
     },
     {
-        "headline": "Russia backs ASEAN plan on tackling Myanmar crisis",
-        "article_link": "https://news.yahoo.com/russia-backs-asean-position-myanmar-045658634.html",
-        "description": "Russia strongly supports the Southeast Asian diplomatic effort to end the crisis in Myanmar and has conveyed similar messages to the country's military leadership, its foreign minister said on Tuesday. The five-point consensus agreed by the Association of Southeast Asian Nations (ASEAN) bloc should be the basis by which the situation can be resolved, Sergei Lavrov said during a visit to Jakarta. \"In our contacts with Myanmar leaders, military leaders, we promote the position of ASEAN which should be in our view, considered as a basis for resolving this crisis and bring the situation back to normalcy,\" Lavrov said."
-    },
-    {
-        "headline": "EXPLAINER: What kind of surgery did Pope Francis have?",
-        "article_link": "https://news.yahoo.com/explainer-kind-surgery-did-pope-153825398.html",
-        "description": "Pope Francis has had surgery to remove part of his left colon in what the Vatican has described as a planned procedure. Doctors say the bowel problems that the 84-year-old pope was experiencing are very common in older people, although only about 10% to 20% of people with similar problems require surgery. Here's a look at what we know about the operation and what the pope's doctors will be watching out for: WHAT KIND OF SURGERY DID THE POPE HAVE?"
-    },
-    {
-        "headline": "\u2018I saved my life.\u2019 Surfside collapse survivor visits memorial wall, mourns her neighbors",
-        "article_link": "https://news.yahoo.com/saved-life-surfside-collapse-survivor-030914912.html",
-        "description": "Julieta Apfelbaum broke down before the photo of her neighbor's smiling daughter. At the growing memorial of the Champlain Towers South collapse in Surfside, Apfelbaum on Monday night mourned the loss of Graciela Cattarossi and the three generations of her family who are still missing. Apfelbaum also lived in the building \u2014 but made it out alive."
+        "headline": "India's Covid doctors demand action after attacks",
+        "article_link": "https://news.yahoo.com//indias-covid-doctors-demand-action-230712691.html",
+        "description": "Dr Seuj Kumar Senapati vividly remembers the afternoon in early June he thought he would die. It was his first job and his second day at work at a Covid care centre in Hojai district, in India's north-eastern state of Assam. In moments, Dr Senapati recalled, all hell broke loose."
     },
     {
         "headline": "Taliban wins close consulates; Tajikistan reinforces border",
-        "article_link": "https://news.yahoo.com/taliban-wins-close-consulates-tajikistan-040556685.html",
-        "description": "A surge of Taliban wins in northern Afghanistan has caused some countries to close their north Afghan consulates, while across the border in Tajikistan reservists are being called up to reinforce its southern border, according to officials and reports on Tuesday. Nearly 1,000 Afghan soldiers have fled the Taliban advances by crossing the border into Tajikistan, according to reports from Tajikistan. A statement on Monday from the Tajik government said President Emomali Rakhmon has ordered the mobilization of 20,000 military reservists to strengthen its border with Afghanistan."
+        "article_link": "https://news.yahoo.com//taliban-wins-close-consulates-tajikistan-040556685.html",
+        "description": "A surge of Taliban wins in northern Afghanistan has caused some countries to close their consulates in the region, while across the border in Tajikistan, reservists are being called up to reinforce the southern border, according to officials and reports on Tuesday. Nearly 1,000 Afghan soldiers have fled the Taliban advances by crossing the border into Tajikistan, according to reports from Tajikistan. A statement on Monday from the Tajik government said President Emomali Rakhmon ordered the mobilization of 20,000 military reservists to strengthen its border with Afghanistan."
     },
     {
-        "headline": "\u2018They were just starting their lives.\u2019 Newlyweds still missing in the Surfside collapse",
-        "article_link": "https://news.yahoo.com/were-just-starting-lives-newlyweds-190347595.html",
-        "description": "Dr. Ruslan Manashirov and Nicole Dorian-Manashirov tied the knot on May 2, just eight weeks before the partial collapse of the Champlain Towers South in Surfside. Manashirov grew up in Brooklyn and is a neurologist as well as a family doctor at ClareMedica of South Miami. One of Manashirov's patients, Jonathan Blecher, said he had a warm, reassuring presence and Blecher even referred his son to Manashirov because of their immediate connection."
+        "headline": "Rescuers resume search for 24 missing in Japan landslides",
+        "article_link": "https://news.yahoo.com//rescuers-resume-search-24-missing-013908515.html",
+        "description": "Rescuers in Japan waded through mud, rock and splintered wood in search of 24 people still missing on Tuesday after heavy rain triggered massive landslides in the seaside city of Atami three days ago, killing four people. Police, fire fighters and military personnel resumed rescue operation, suspended for the night on Monday, at around 6:00 a.m. (2100 GMT Monday). The landslides occured around 10:30 a.m. on Saturday, and time is running out for any survivors trapped beneath the rubble."
+    },
+    {
+        "headline": "Hong Kong defends privacy law after Big Tech raises concerns",
+        "article_link": "https://news.yahoo.com//hong-kong-defends-privacy-law-054553648.html",
+        "description": "Hong Kong has defended planned changes to privacy laws, brushing off concerns raised by a technology industry body. Hong Kong's leader, Carrie Lam said officials would meet companies that are concerned about the changes. In a letter, the Singapore-based Asia Internet Coalition (AIC) - which counts Facebook, Google, Twitter and Apple amongst its members - said the proposed legislation was too broad."
+    },
+    {
+        "headline": "Some 150 students missing after Nigerian school raid",
+        "article_link": "https://news.yahoo.com//150-students-missing-nigerian-school-215803362.html",
+        "description": "About 150 students were missing on Monday after armed men raided a boarding school in Nigeria's Kaduna state, the latest in a wave of mass kidnappings targeting schoolchildren for ransom. Police said they were in hot pursuit alongside military personnel. The attack on the Bethel Baptist High School is the 10th mass school abduction since December in northwest Nigeria."
     },
     {
         "headline": "US left Afghan airfield at night, didn't tell new commander",
-        "article_link": "https://news.yahoo.com/us-left-afghan-airfield-night-173121460.html",
+        "article_link": "https://news.yahoo.com//us-left-afghan-airfield-night-173121460.html",
         "description": "The U.S. left Afghanistan's Bagram Airfield after nearly 20 years by shutting off the electricity and slipping away in the night without notifying the base's new Afghan commander, who discovered the Americans' departure more than two hours after they left, Afghan military officials said. Afghanistan's army showed off the sprawling air base Monday, providing a rare first glimpse of what had been the epicenter of America's war to unseat the Taliban and hunt down the al-Qaida perpetrators of the 9/11 attacks on America. The U.S. announced Friday it had completely vacated its biggest airfield in the country in advance of a final withdrawal the Pentagon says will be completed by the end of August."
     },
     {
-        "headline": "At least 49 people charged in the Capitol insurrection are accused of trying to delete images, videos, or texts from their phones and social media accounts, according to a report",
-        "article_link": "https://news.yahoo.com/least-49-people-charged-capitol-170622518.html",
-        "description": "Authorities claim some people who took part in the Capitol riots later wiped evidence, the Associated Press reports. The people deleted texts or social media posts that showed they'd participated in the insurrection, authorities said in court documents viewed by AP. At least 49 people charged in connection with the US Capitol riots in January are also accused of trying to delete evidence from their phones and social media accounts, according to a review of court records by the Associated Press, published Saturday."
+        "headline": "Lebanon is 'days away' from social explosion, PM Diab warns",
+        "article_link": "https://news.yahoo.com//lebanon-days-away-social-explosion-080734265.html",
+        "description": "BEIRUT (Reuters) -Lebanon is a few days away from a social explosion, caretaker Prime Minister Hassan Diab warned on Tuesday, calling on the international community to save a country in deep economic crisis. The World Bank has called Lebanon's crisis one of the worst depressions of modern history. Anger over fuel shortages has spilled into fights at petrol stations and the prime minister appeared to be warning of the prospect of more unrest."
+    },
+    {
+        "headline": "Tibetan spiritual leader Dalai Lama celebrates 86th birthday",
+        "article_link": "https://news.yahoo.com//tibetan-spiritual-leader-dalai-lama-062708135.html",
+        "description": "The Tibetan spiritual leader the Dalai Lama celebrated turning 86 on Tuesday, thanking his supporters and expressing his appreciation for India, where he has lived since he fled his homeland in 1959. \u201cI want to express my deep appreciation of all my friends who have really shown me love, respect and trust,\u201d the Dalai Lama said in a video message. \u201cSince I became a refugee and now settled in India, I have taken full advantage of India's freedom and religious harmony,\u201d he said."
+    },
+    {
+        "headline": "Delta variant: Which Asian countries are seeing rising cases?",
+        "article_link": "https://news.yahoo.com//delta-variant-south-asian-countries-145740951.html",
+        "description": "India may now be past the peak of its latest coronavirus surge, but some other countries in Asia are experiencing rising infections. The Delta variant is contributing to a rapid rise in case numbers in Indonesia, where a crisis over oxygen supplies is unfolding. Meanwhile, vaccination rates across the region remain (with some exceptions) generally low, amidst concerns that this variant is spreading."
+    },
+    {
+        "headline": "5 Statement Pitchers to Make a Splash",
+        "article_link": "https://news.yahoo.com//5-statement-pitchers-splash-120000771.html",
+        "description": "This summer's hottest tablescape statement piece Originally Appeared on Architectural Digest"
+    },
+    {
+        "headline": "Russia backs ASEAN plan on tackling Myanmar crisis",
+        "article_link": "https://news.yahoo.com//russia-backs-asean-position-myanmar-045658634.html",
+        "description": "Russia strongly supports the Southeast Asian diplomatic effort to end the crisis in Myanmar and has conveyed similar messages to the country's military leadership, its foreign minister said on Tuesday. The five-point consensus agreed by the Association of Southeast Asian Nations (ASEAN) bloc should be the basis by which the situation can be resolved, Sergei Lavrov said during a visit to Jakarta. \"In our contacts with Myanmar leaders, military leaders, we promote the position of ASEAN which should be in our view, considered as a basis for resolving this crisis and bring the situation back to normalcy,\" Lavrov said."
+    },
+    {
+        "headline": "Afghanistan: Soldiers flee to Tajikistan after Taliban clashes",
+        "article_link": "https://news.yahoo.com//afghanistan-soldiers-flee-tajikistan-militant-114712805.html",
+        "description": "More than 1,000 Afghan soldiers have fled to neighbouring Tajikistan after clashing with Taliban militants, officials have said. The troops retreated over the border to \"save their own lives\", according to a statement by Tajikistan's border guard. Violence has risen in Afghanistan and the Taliban have been making significant gains, particularly in the north of the country, in recent weeks."
     },
     {
         "headline": "At least 140 people died in shootings across the US over Fourth of July weekend",
-        "article_link": "https://news.yahoo.com/least-140-people-died-shootings-205639684.html",
-        "description": "img alt=\"Fort Worth Police Chief Neil Noakes holds a news briefing at the site of a shooting Sunday, July 4, 2021, in Fort Worth, Texas.\" height= 1864 src= https://media.zenfs.com/en/insider_articles_922/34572ad8510483c506678f9872b928c2 width= 3000 />"
+        "article_link": "https://news.yahoo.com//least-140-people-died-shootings-205639684.html",
+        "description": "img alt=\"Chief Neil Noakes holding a news briefing at the site of a shooting Sunday in Fort Worth, Texas.\" height= 1864 src= https://media.zenfs.com/en/insider_articles_922/34572ad8510483c506678f9872b928c2 width= 3000 />"
     },
     {
-        "headline": "Bud Vases Are in Full Bloom",
-        "article_link": "https://news.yahoo.com/bud-vases-full-bloom-150653465.html",
-        "description": "For the most stimulating single-stem arrangements Originally Appeared on Architectural Digest"
+        "headline": "Turkish, U.S. defence ministers to discuss Kabul airport plan on Wednesday",
+        "article_link": "https://news.yahoo.com//turkish-u-defence-ministers-discuss-090348331.html",
+        "description": "Turkish Defence Minister Hulusi Akar said he would discuss with his U.S. counterpart Lloyd Austin on Wednesday a plan for Turkey to operate and guard Kabul's Hamid Karzai airport after the NATO withdrawal from Afghanistan, adding there was no final decision yet. Ankara has offered to run and guard the airport after NATO's withdrawal, and has been in talks with allies, namely the United States, on financial, political and logistical support. Speaking to a group of reporters after a cabinet meeting on Monday, Akar said talks on the details of the mission were still underway, and that the airport must be operational so the Afghan government is not isolated from the world following the pullout."
     },
     {
         "headline": "In Myanmar, the military and police declare war on medics",
-        "article_link": "https://news.yahoo.com/myanmar-military-police-declare-war-050127484.html",
+        "article_link": "https://news.yahoo.com//myanmar-military-police-declare-war-050127484.html",
         "description": "Hidden away in a Myanmar monastery, this safe haven had sprung up for those injured while protesting the military's overthrow of the government. In Myanmar, the military has declared war on health care \u2014 and on doctors themselves, who were early and fierce opponents of the takeover in February. Security forces are arresting, attacking and killing medical workers, dubbing them enemies of the state."
     },
     {
-        "headline": "Two missing sisters. One bizarre note. For 20 years, a family has asked: Where are our girls?",
-        "article_link": "https://news.yahoo.com/two-missing-sisters-one-bizarre-103014647.html",
-        "description": "Often when young Black children are missing, authorities write them off as runaways, and their cases are unlikely to grab high-profile investigator and media attention, according to investigators and missing persons experts and organizations. So when Chicago police initially labeled the Bradley girls' case as \"missing\" \u2013 not abducted \u2013 the family was irate. The case was reclassified as \"missing/endangered,\" as it remains."
+        "headline": "A passenger plane carrying 29 people on board went missing in Russia's far east",
+        "article_link": "https://news.yahoo.com//passenger-plane-carrying-29-people-081306648.html",
+        "description": "The Antonov An-26 plane was flying from Petropavlovsk-Kamchatsky to Palana in the Kamchatka Peninsula. A passenger plane carrying 29 people - 23 passengers and six crew members - went missing on Tuesday in Russia's far east, a Russian Emergencies Ministry spokesperson told Russian news agency Tass. The Antonov An-26 plane was flying from the city of Petropavlovsk-Kamchatsky to the town Palana in Russia's far east Kamchatka Peninsula on a routine flight."
+    },
+    {
+        "headline": "Echoes of 1989 as foreign forces withdraw from Afghanistan",
+        "article_link": "https://news.yahoo.com//echoes-1989-foreign-forces-withdraw-235003494.html",
+        "description": "Britain also shut its gates on its magnificent white stucco compound once hailed as the \"finest in Asia\". \"UK ministers felt that they had no choice but to follow suit even though our embassy staff were keen to stay put and carry on with the job,\" recalls Stephen Evans, a former British ambassador to Afghanistan who was then the Afghanistan desk officer in the British foreign office. Both Washington and London promised they'd soon be back, but their missions would stay shut until a US-led invasion in 2001 toppled the Taliban."
+    },
+    {
+        "headline": "ESPN anchor recorded complaining about promotion of Black colleague",
+        "article_link": "https://news.yahoo.com//espn-anchor-recorded-complaining-promotion-172816697.html",
+        "description": "A white ESPN anchor has been recorded complaining about the promotion of a Black colleague in an incident that has prompted a backlash among staff at the broadcaster, The New York Times reported. The newspaper reported a leaked recording of a conversation between Rachel Nichols, one of the outlet's most prominent female presenters, and Adam Mendelsohn, an adviser to LeBron James. During the conversation in July 2020, Ms Nichols appears to express frustration that she had not been chosen as the primary host for the 2020 NBA finals coverage and that Maria Taylor, who is Black, had instead been selected."
+    },
+    {
+        "headline": "I'm joining the Lincoln Project to make sure Republicans don't win Congress in 2022: Trippi",
+        "article_link": "https://news.yahoo.com//im-joining-lincoln-project-sure-071506251.html",
+        "description": "We are at war with an authoritarian movement fueled by former President Donald Trump. It includes many of the 147 Republicans who signed on to treason with their Jan. 6 votes objecting to Joe Biden's win, and it has grown since then. The authoritarian movement now holds so much power within what was the Republican Party that officials of goodwill are either purged or held hostage \u2013 out of cowardly fear for their political careers or even out of fear for their safety."
     }
 ]
