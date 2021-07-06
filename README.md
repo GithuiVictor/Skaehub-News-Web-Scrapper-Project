@@ -34,6 +34,33 @@ The main goal of this project is to accept a user's news url as input, scrape al
   
   soup = BeautifulSoup(response.content, "html.parser")
 ```
+* You can find specific elements after parsing. This can be achieved in several ways including:
+  * Find Elements by ID
+    ```python
+     results = soup.find(id="ResultsContainer")
+    ```
+  * Find Elements by HTML Class Name
+    ```python
+     job_elements = results.find_all("div", class_="card-content")
+    ```
+  * Extract Text from HTML elements
+   ```python
+     title_element = job_element.find("h2", class_="title").text
+   ```
+  * Find Elements by Class Name and Text Content
+   ```python
+     python_jobs = results.find_all("h2", string="Python")
+   ```
+* Store the scraped results in a txt file
+```python
+#store the output in a txt file in json format
+with open('general-news.txt', 'w') as output_file:
+        output_file.write(json.dumps(data, indent=4))
+```
+
+### Some of the Challenges I experienced
+1. Every website is different. While you’ll encounter general structures that repeat themselves, each website is unique and will need personal treatment if you want to extract the relevant information.
+2. Websites are always changing.
 
 
 
