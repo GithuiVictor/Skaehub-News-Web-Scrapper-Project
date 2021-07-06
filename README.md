@@ -66,6 +66,10 @@ with open('general-news.txt', 'w') as output_file:
 1. Every website is different. While you’ll encounter general structures that repeat themselves, each website is unique and will need personal treatment if you want to extract the relevant information.
 2. Websites are always changing.
 
+## Credits
+1. [Victor Githui M.](https://victor-githui.netlify.app/)
+2. [SkaeHub Developer Program](https://www.skaehub.com/#/)
+
 
 
 
