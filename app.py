@@ -6,31 +6,7 @@ from bs4 import BeautifulSoup
 class NewsScraperApp:
     def __init__(self, url):
         self.url = url
-        return
-
-
-    # """Scrap all urls of a website"""
-    # def scrap_all_urls(self):
-    #     #Creating an empty list 
-    #     urls = []
-    #     site = self.url
-
-    #     #Creating requests for urls
-    #     response = requests.get(site)
-    #     soup = BeautifulSoup(response.text, 'html5lib')
-
-    #     for link in soup.find_all('a'):
-    #         href = link.attrs['href']
-    #         if href.startswith("/"):
-    #             site = site + href
-    #             if site not in urls:
-    #                 urls.append(site)
-    #                 print(site)
-    #                 #calling the scrape function itself
-    #                 #generally called recursion
-    #                 self.scrap_all_urls(site)
-
-
+    
 
     def data_parse(self, soup):
         news = []
@@ -44,12 +20,13 @@ class NewsScraperApp:
                 "description": ''
             }
             
+
             #Get the article URL link
             for link in data.find_all('a'):
                 href = link.attrs['href']
                 full_url = "{}{}".format(site, href)
                 single_news["article_link"] = full_url
-                print(full_url)
+
 
             #Get description from the article
             try:
@@ -60,10 +37,12 @@ class NewsScraperApp:
                 single_news["description"] = data.find_next_sibling('a')
                 single_news["description"] = data.find_previous_sibling('p')
             
+
             #Add article to news list
             news.append(single_news)
         
-        return news
+
+        return news, single_news
 
 
     def get_general_news(self):
@@ -88,12 +67,8 @@ class NewsScraperApp:
         return self.data_parse(soup)
 
 
-    # def get_specific_news(self, topic):
-    #     url = "{}/{}"
-
-
 
 if __name__ == "__main__":
     scraper = NewsScraperApp(input("Please input or paste your news URL: "))
     print(scraper.get_general_news())
-    # print(scraper.scrap_all_urls())
+    
