@@ -10,7 +10,6 @@ class NewsScraperApp:
 
     def data_parse(self, soup):
         news = []
-        urls = []
         site = self.url
         for data in soup.find_all(['h2', 'h3']):
             #Save individual article in a dictionary
@@ -71,4 +70,3 @@ class NewsScraperApp:
 if __name__ == "__main__":
     scraper = NewsScraperApp(input("Please input or paste your news URL: "))
     print(scraper.get_general_news())
-    
