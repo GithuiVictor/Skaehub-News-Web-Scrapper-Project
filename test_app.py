@@ -16,20 +16,20 @@ class TestApp(unittest.TestCase):
         self.app = NewsScraperApp('https://news.yahoo.com/')
     
 
-    """Check if the app file exists"""
-    def test_filrExists(self):
+    #Check if the app file exists
+    def test_file_exists(self):
         assert os.path.isfile(self.path)
 
 
-    """Test if input is a url"""
-    def test_inputUrl(self):
+    #Test if input is a url
+    def test_input_url(self):
         articles = self.app.get_general_news()
 
         self.assertTrue(articles)
 
     
-    """Test if single news is a dictionary"""
-    def test_singleNews(self):
+    #Test if single news is a dictionary
+    def test_single_news(self):
         response = requests.get('https://news.yahoo.com/')
         soup = BeautifulSoup(response.text, 'html.parser')
         news = self.app.data_parse(soup)
@@ -39,8 +39,8 @@ class TestApp(unittest.TestCase):
         self.assertIs(type(result_instance), type(news[1]))
 
 
-    """Test if news list is a list"""
-    def test_newsList(self):
+    #Test if news list is a list
+    def test_news_list(self):
         response = requests.get('https://news.yahoo.com/')
         soup = BeautifulSoup(response.text, 'html.parser')
         news_list = self.app.data_parse(soup)
