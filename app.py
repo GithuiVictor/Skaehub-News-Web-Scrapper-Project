@@ -1,6 +1,7 @@
 import requests
 import json
 from bs4 import BeautifulSoup
+import pyfiglet
 
 
 class NewsScraperApp:
@@ -68,5 +69,11 @@ class NewsScraperApp:
 
 
 if __name__ == "__main__":
+    print('--------------------------------------------------------------------\n')
+    result = pyfiglet.figlet_format("NEWS WEB SCRAPER", font = "slant"  )
+    print(result)
+    print('\n------------------------------------------------------------------\n')
     scraper = NewsScraperApp(input("Please input or paste your news URL: "))
     print(scraper.get_general_news())
+    print('--------------------------------------------------------------------\n')
+    print('\n \n You now can run the command $ cat general-news.txt on your shell\n \n')
